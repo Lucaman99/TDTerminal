@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class= "nav" style="width:100vw;height:50px;background-color:#28a745">
+    <h3 style="color:white;padding-top:7px;padding-left:7px;">TDTerminal</h3>
+  </div>
+  <center>
+  <div class= "centered">
+  <h4>Filter by Category</h4>
+  <br><br>
+  <form id="search_query" action="/results" method="get">
+    Company Name: <input type="text" id="te" name="company">
+    <br><br>
+  <select id="re" name="relationship" width="50">
+    <option value="">Select a Category</option>
+    <option value="divorced">Divorced Individuals</option>
+    <option value="married">Married Individuals</option>
+    <option vale="single">Single Individuals</option>
+  </select>
+  <br><br>
+  Minimum Age: <input type="number" name="a1">
+  &nbsp;&nbsp;&nbsp;
+  Maximum Age: <input type="number" name="a2">
+  <br><br>
+  Minimum Income: <input type="number" name="i1" size='10'>
+  &nbsp;&nbsp;&nbsp;
+  Maximum Income: <input type="number" name="i2">
+  <br><br>
+  Minimum Balance: <input type="number" name="b1">
+  &nbsp;&nbsp;&nbsp;
+  Maximum Balance: <input type="number" name="b2">
+  <br><br>
+  <input type="submit" value="Submit" id="su" class="btn btn-outline-success">
+</form>
+</div>
+</center>
+</body>
+<style>
+  .centered {
+    border:solid 1px;
+    border-radius:10px;
+    width:850px;
+    margin-top:150px;
+    padding-top:15px;
+    padding-bottom:15px;
+  }
+</style>
+</html>

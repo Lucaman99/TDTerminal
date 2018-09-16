@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+   <body>
+     <div class= "nav" style="width:100vw;height:50px;background-color:#28a745">
+       <h3 style="color:white;padding-top:7px;padding-left:7px;">TDTerminal</h3>
+     </div>
+     <center>
+     <div class= "summary">
+       <h3>Data Summary</h3>
+       <br>
+       <p id="on"></p>
+       <p id="tw"></p>
+       <p id="th"></p>
+       <p id="fo"></p>
+       <p id="fi"></p>
+       <p id="si"></p>
+     </div>
+     <br><br>
+     <h3>Demographic-Specific Location Summary</h3>
+     <br>
+     <div class= "tables">
+     <table class="table table-striped" id="ta">
+       <thead>
+         <tr>
+           <th>Location of Transaction</th>
+           <th>Number of Transactions</th>
+         </tr>
+       </thead>
+     </table>
+   </div>
+   </center>
+      <script>
+        var incoming = "{{ result }}"
+
+        for (var i = 0; i < 100; i++) {
+          var incoming = incoming.replace("&#39;&#39;", '""')
+        }
+        for (var i = 0; i < 100; i++) {
+          var incoming = incoming.replace("&#39;", '"')
+        }
+        var location_data = incoming.substring(incoming.indexOf("[")+1, incoming.indexOf("]"))
+        var location_data2 = incoming.substring(incoming.indexOf("]")+3, incoming.lastIndexOf("]"))
+
+        document.getElementById('on').innerHTML = incoming.split(",")[0]
+        document.getElementById('tw').innerHTML = incoming.split(",")[1]
+        document.getElementById('th').innerHTML = incoming.split(",")[2]
+        document.getElementById('fo').innerHTML = incoming.split(",")[3]
+        document.getElementById('fi').innerHTML = incoming.split(",")[4]
+        document.getElementById('si').innerHTML = incoming.split(",")[5]
+
+        for (var h = 0; h < location_data.split(",").length; h++) {
+          var table = document.getElementById('ta')
+
+          var row = table.insertRow(table.rows.length)
+
+          var cell1 = row.insertCell(0)
+          var cell2 = row.insertCell(1)
+
+          cell1.innerHTML = location_data.split(",")[h]
+          cell2.innerHTML = location_data2.split(",")[h]
+        }
+      </script>
+
+
+
+   </body>
+   <style>
+   .summary {
+     border:solid 1px;
+     border-radius:10px;
+     width:850px;
+     margin-top:30px;
+     padding-top:15px;
+     padding-bottom:15px;
+     text-align:left;
+     padding-left:20px;
+   }
+   p {
+
+   }
+   .tables {
+     width:1000px;
+   }
+   </style>
+</html>
