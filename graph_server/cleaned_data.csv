@@ -1,0 +1,868 @@
+,id,surname,givenname,age,province,longitude,latitude,occupation,relationship,income,balances
+0,4806f34e-93a6-4e2f-9e41-5ee9f0d24f14,Tilden,Khalil,52,ON,-79.3846568792,43.669558393,"5412 Accounting, tax preparation, bookkeeping and payroll services",Married,18566.75,11140.05
+1,90f54a9f-9112-451b-b2f9-e5de6b16e0b0,Tewari,Tanner,37,ON,-79.3139225212,43.7662153439,"4145 Pharmaceuticals, toiletries, cosmetics and sundries wholesaler-distributors",Married,28742.0,17245.199999999993
+2,21821034-8ad8-4c00-bfd4-b74e694066ba,Scoby,Zachary,55,ON,-79.5098139725,43.7576943421,4481 Clothing stores,Married,30983.3,18589.98
+3,cad31095-cae1-49f4-bea8-78c42e2d92b7,Lowthert,Milan,35,ON,-79.4372854635,43.6479058136,6111 Elementary and secondary schools,Married,35061.0,21036.6
+4,ce16ef42-a4e8-41e0-8f45-1ccf3079b659,Flink,Jackson,15,ON,-79.323157635,43.69619885979999,,Single,0.0,160.89
+5,24a794a3-ea5b-4245-bd7a-eb8466f4eb7d,Matts,Brooke,36,ON,-79.5954833,43.755805078,"5413 Architectural, engineering and related services",Married,41919.0,25151.4
+6,f2d298fd-8c7c-4c10-83a4-967328686cc0,Dannecker,Mammie,16,ON,-79.4079120136,43.7288538045,,Single,0.0,157.62
+7,0197dacf-35ce-4060-9be5-3d030b1eeb8d,Kaminski,Peter,24,ON,-79.3693963392,43.785747873199995,3251 Basic chemical manufacturing,Single,7890.96,4734.57
+8,8f5b8262-ff6c-47a3-9b9e-387c829e3403,Kreck,Le,54,ON,-79.40513064619999,43.7349962001,4421 Furniture stores,Married,86305.2,51783.12
+9,906fe9e0-ab82-4a4a-b60f-0cbf298b098d,Mertes,Harvey,34,ON,-79.4885909687,43.609329001400006,"3256 Soap, cleaning compound and toilet preparation manufacturing",Married,31019.0,18611.4
+10,c3c6f89e-0920-41c7-b585-c7018042ffd1,Reasner,Joan,54,ON,-79.3830971841,43.7689760134,4911 Postal service,Married,29622.85,17773.71
+11,5f16d1ba-21fc-4651-a6b0-2779acf1b3b4,Cahela,Richelle,52,ON,-79.5787506011,43.6291344462,4539 Other miscellaneous store retailers,Married,41359.75,24815.85
+12,21bbfcfa-255d-44d0-a910-5f259c47af6d,Blaxland,Natalya,34,ON,-79.5181434205,43.739202145,,Married,0.0,0.0
+13,ef3aef2a-46a9-41fd-9331-bb28a42fe666,Dohring,Chassidy,34,ON,-79.390705463,43.6739384943,5239 Other financial investment activities,Married,53468.0,32080.800000000007
+14,05c500f2-8444-4223-82a5-3fb131cea332,Cinelli,Egon,19,ON,-79.3538144471,43.6891811387,5152 Pay and specialty television,Single,4237.53,2542.53
+15,06440fd0-f424-444a-93e2-706aab216dfe,Mulliniks,Rob,57,ON,-79.414356893,43.641867117,"5416 Management, scientific and technical consulting services",Married,48942.85,29365.71
+16,25ff9964-1aa9-4b42-b25b-926a9360f129,Roccia,Truman,41,ON,-79.32540301819999,43.761593976099995,6112 Community colleges and C.E.G.E.P.s,Married,36595.9,21957.54
+17,6d3e56d3-e2aa-4c68-8697-27257d8ab10e,Suniga,Shara,31,ON,-79.3033486874,43.7222813494,4132 Beverage wholesaler-distributors,Divorced,39961.0,23976.6
+18,b03efa92-c68e-403a-ae76-26dea3f27313,Renaker,Sonja,34,ON,-79.50281981010001,43.597145232799996,"3328 Coating, engraving, heat treating and allied activities",Married,48257.0,28954.2
+19,7b3f0db2-46ad-4be0-b67b-f1dd7f9c6f01,Fuquay,Cristin,22,ON,-79.4168317037,43.7279454955,2131 Support activities for mining and oil and gas extraction,Single,13575.21,8145.12
+20,30ddb4f8-3e7c-4eba-bca2-9721e47119a8,Basham,Carsten,56,ON,-79.1696451973,43.7769304099,,Married,0.0,0.0
+21,301048c3-314f-41b3-bd6d-04def4ab4e86,Folds,Veronika,34,ON,-79.3139225212,43.7662153439,4529 Other general merchandise stores,Married,30470.0,18282.0
+22,6a795a6a-bd80-4335-856d-b3439e08f3e7,Vink,Xavier,60,ON,-79.40513064619999,43.7349962001,6220 Hospitals (6221 to 6223),Married,71309.85,42785.91
+23,6456e336-1975-4380-9956-bd2576e00df4,Bousman-Broxterman,Holli,52,ON,-79.3959208986,43.67063782140001,"4532 Office supplies, stationery and gift stores",Married,59415.9,35649.54
+24,decbd4aa-e1d9-4bc4-ae1a-ebee2c435a59,Sjaarda,Gudrun,51,ON,-79.4808027202,43.71200670020001,3118 Bakeries and tortilla manufacturing,Married,45473.3,27283.98
+25,98e4b2ba-75fe-4794-aa75-83a4ef25b56a,Mcgranahan,Zaylen,25,ON,-79.6249845469,43.7302696557,5171 Wired telecommunications carriers,Single,11235.18,6741.12
+26,f7ff4d9d-f9bf-420c-9b70-16f635818bf6,Kaopua,Denver,54,ON,-79.44630149,43.678044421,6113 Universities,Married,94478.25,56686.95
+27,abea2e58-13aa-4f74-8816-4da6960fe2bf,Stivers,Zyana,27,ON,-79.2077984962,43.8182080535,7211 Traveller accommodations,Single,11120.01,6672.0
+28,a066087f-ac78-401a-bd1f-d77f8f3a2807,Hereth,Davida,54,ON,-79.3939331766,43.6473909949,6111 Elementary and secondary schools,Married,79245.35,47547.21
+29,d7baa64e-5143-4b1a-ab36-fd216c5140b7,Hara,Shawna,50,ON,-79.5057020797,43.7153666358,"4483 Jewellery, luggage and leather goods stores",Married,61584.8,36950.88
+30,c65b9951-2284-44d2-b13f-561c4966dcce,Clewell,Richard,34,ON,-79.2062971635,43.7663987696,,Married,78025.0,46815.0
+31,7254abde-a6df-4384-8e5f-0282a32a1dc2,Dubel,Rina,34,ON,-79.391062439,43.785860373,4481 Clothing stores,Married,91032.0,54619.2
+32,1f49f93f-00ec-40a2-904e-9ece90c62c23,Klimaszewski,Euan,49,ON,-79.323157635,43.69619885979999,7222 Limited-service restaurants,Married,67064.8,40238.88
+33,62dbbe72-3579-4910-b3db-55a7046cade5,Zeldin,Bentley,53,ON,-79.56812821300001,43.651935308,3391 Medical equipment and supplies manufacturing,Married,25398.9,15239.34
+34,e81ac416-e5ca-41c3-a961-6b3fc91894bc,Biddulph,Vinny,51,ON,-79.3396941053,43.7916204893,7222 Limited-service restaurants,Married,40273.0,24163.800000000007
+35,cbac9bad-1644-4f37-90e8-c950caabcb21,Mcdermott,Azalee,33,ON,-79.2610072808,43.6927513087,6213 Offices of other health practitioners,Married,48948.0,29368.800000000007
+36,389f3589-2446-461c-aff8-afa394e911d7,Wikins,Sarina,52,ON,-79.4054989644,43.670088649499995,4461 Health and personal care stores,Married,35820.2,21492.12
+37,689c5bff-a8e4-4412-afb8-b00a13b04687,Toles,Gregg,52,ON,-79.310922498,43.6765316363,7221 Full-service restaurants,Married,125385.65,75231.39
+38,4a257d66-0f97-430e-96eb-5fbec3aab676,Condelario,Lemuel,29,ON,-79.3175643582,43.6809336109,6220 Hospitals (6221 to 6223),Single,9657.12,5794.26
+39,0f202a30-b31a-43b1-9911-6b28025e2a08,Chicas,Etta,34,ON,-79.3843073586,43.7025049851,5112 Software publishers,Married,87981.0,52788.60000000001
+40,012c8e83-d535-43bc-9915-df0163ece210,Fillinger,Wm,25,ON,-79.36251792670001,43.786141898500006,"5111 Newspaper, periodical, book and director publishers",Single,8236.47,4941.87
+41,0ec61b41-9bde-4a56-85c3-d79099466191,Forsmark,Bennett,55,ON,-79.3321638282,43.793552767200005,"2211 Electric power generation, transmission and distribution",Married,32223.0,19333.800000000007
+42,c864085f-d9fa-4d8e-9fcf-ee5a2e04ca2f,Buzard,Martin,47,ON,-79.5323402028,43.5912936266,3363 Motor vehicle parts manufacturing,Married,21642.5,12985.5
+43,59e34963-4c34-40b6-8424-90a06e0d4202,Lyken,May,18,ON,-79.37521635569999,43.646832947600004,,Single,0.0,126.63
+44,3c2e1a07-2f77-46aa-8600-6688697c2de9,Churchman,Hendrik,38,ON,-79.376348695,43.646235695,"5419 Other professional, scientific and technical services",Married,32052.0,19231.2
+45,831e0f80-cf85-46ca-a0e1-5e2d52bdbef1,Durdy,Saphira,34,ON,-79.5203775892,43.7049660653,9112-9119 Other federal services,Married,44935.0,26961.0
+46,0592505b-919f-4abd-9d51-5d9128af98aa,Andalora,Tyren,15,ON,-79.2171129347,43.7607487105,,Single,0.0,32.7
+47,d4fbf0a3-2f6f-483b-be01-24b51bb8aba9,Rippee,Carlisle,58,ON,-79.4863427949,43.73782478020001,5411 Legal services,Married,43997.85,26398.71
+48,d56e9472-7528-4a81-a0c2-19d01475eeb9,Neugin,Leo,59,ON,-79.5009610922,43.7429406222,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,17799.7,10679.82
+49,e416fe02-fc8a-4e84-9324-807111e58fa1,Brenek,Gale,16,ON,-79.4201010101,43.791978933900005,,Single,0.0,212.04
+50,1bc31769-e8bc-4e58-b25f-919fcb1ce4a3,Cofresi,Allen,53,ON,-79.4262613508,43.6779838706,5239 Other financial investment activities,Married,72331.55,43398.93
+51,25a8d9f9-89ce-448a-8da9-572c713412f6,Trimis,Tameika,18,ON,-79.50316079609999,43.7205376278,,Single,0.0,219.72
+52,e1c4f22f-238d-4ca4-b5dc-e04fcd5e0b41,Fronk,Morgan,30,ON,-79.4634667724,43.6868164775,6220 Hospitals (6221 to 6223),Single,7499.58,4499.76
+53,c66e5861-6049-4aa8-aa21-e309706db48e,Cofresi,Judith,50,ON,-79.4262613508,43.6779838706,9120 Provincial and territorial public administration (9121 to 9129),Married,54749.2,32849.520000000004
+54,f40ebce2-5840-4583-a999-be5ce221e7c1,Scoby,Torie,52,ON,-79.5098139725,43.7576943421,4422 Home furniture stores,Married,35255.55,21153.33
+55,45a34368-2854-49f8-8cdd-22648b572565,Zuehls,Rochelle,34,ON,-79.464277128,43.666897896,9120 Provincial and territorial public administration (9121 to 9129),Married,45883.0,27529.800000000007
+56,c3f1ba76-5f60-48ab-a51e-b4a31b64a0a9,Cinelli,Willis,53,ON,-79.3538144471,43.6891811387,8123 Dry cleaning and laundry services,Married,16992.4,10195.44
+57,723d6952-3f64-4305-b83e-d27b8a9370e2,Laliberty,Nikole,50,ON,-79.2002689916,43.8183675446,,Married,0.0,0.0
+58,43c8c0d0-9fb7-46d2-ac8f-e3341fe5a0b8,Vlchek,Cecilia,18,ON,-79.4997607949,43.7069298016,,Single,0.0,64.80000000000001
+59,90e6ecaf-6907-4456-865d-91b10c72bc69,Daniely,Harry,61,ON,-79.5612924606,43.685844036099994,8111 Automotive repair and maintenance,Married,43436.85,26062.11
+60,b6d9b394-84d4-49c3-8fd0-5127ddc7a5da,Thistle,Genaro,58,ON,-79.389496352,43.672723026999996,3372 Office furniture (including fixtures) manufacturing,Married,51237.1,30742.26
+61,05c1ebdc-72c4-4608-8642-666825dc9069,Pipia,Majorie,54,ON,-79.3547403477,43.78843313189999,5619 Other support services,Married,43230.8,25938.48
+62,4ed719f7-bdb0-48d7-8818-749efd835fb8,Noorda,Fran,50,ON,-79.49275550899999,43.613273168999996,7222 Limited-service restaurants,Married,50187.15,30112.29
+63,9a58fc0d-ed7f-41d6-80cd-6eb305334d38,Trimis,Clifford,76,ON,-79.50316079609999,43.7205376278,Retired,Married,7952.7,4771.62
+64,4892ffd0-28c2-48f8-9903-25c9f752ac9e,Hoey,Annalise,54,ON,-79.4648775308,43.73561015560001,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,27556.3,16533.78
+65,077b24e1-4b20-439f-afee-d4acd2561c8e,Ostendorf,Reinaldo,40,ON,-79.2960241473,43.7396445188,3391 Medical equipment and supplies manufacturing,Married,40307.3,24184.38
+66,3f5271db-eb2b-4606-a7a7-84eb0d7a7695,Patience,Adonis,62,ON,-79.5180968041,43.6366013849,4853 Taxi and limousine service,Married,58246.4,34947.840000000004
+67,ccdb2f11-4b84-4f21-91bb-49f0fa3369fa,Folger,Siu,34,ON,-79.5874440712,43.719434898,"5416 Management, scientific and technical consulting services",Married,99191.0,59514.60000000001
+68,2ff66224-d9f9-443b-838c-a51955ae381d,Gallishaw,Carrol,55,ON,-79.3428221569,43.781987505500005,"5413 Architectural, engineering and related services",Married,33026.85,19816.11
+69,a66079bc-b7f5-4e74-a984-f899fb5c8172,Peevy,Dakota,18,ON,-79.5166736036,43.687791275100004,,Single,0.0,132.66
+70,150efbbc-6451-49e5-9e2c-c2b00d0e0813,Wiener-Allenbaugh,Arran,16,ON,-79.4073156462,43.7143223826,,Single,0.0,121.05
+71,9baeb6e0-c487-469b-adcd-fb557ec081e1,Surina,Gloria,13,ON,-79.4348453896,43.7159898138,,Single,0.0,65.34
+72,5541df6e-8468-4a70-ac98-ddc17773e1c3,Vallieres,Brandon,42,ON,-79.3717210615,43.669078059700006,3344 Semiconductor and other electronic component manufacturing,Married,12247.4,7348.44
+73,a1694ef5-6600-4a77-8a15-c38e853ed54c,Raub,Dicky,22,ON,-79.594358308,43.758040052,"5418 Advertising, public relations, and related services",Single,9786.48,5871.9
+74,1408ab87-6c8c-408a-ae58-bdbdc4a823f2,Pathak,Jayce,13,ON,-79.3913448594,43.788810185200006,,Single,0.0,131.73
+75,39405921-6d10-4e70-b4bb-b69c984de6e1,Roszel,Grover,20,ON,-79.4410303906,43.7032633519,6116 Other school and instruction,Single,5619.9,3371.94
+76,c3b5a01f-c0c5-4185-9902-07025b112877,Suniga,Vinnie,16,ON,-79.3033486874,43.7222813494,,Single,0.0,49.59
+77,2bbd235c-a090-4289-93db-b3a8ca7b2cf2,Sartor,Mario,31,ON,-79.3575674655,43.6879062867,7223 Special food services,Single,23004.0,13802.4
+78,7e7f6da6-1ca6-4f18-a585-c57197cce53f,Honea,Shandra,15,ON,-79.4399661419,43.688278223000005,,Single,0.0,78.9
+79,a5c28853-27e4-4ad6-8d54-44247c956ce9,Vazzana,Lesley,22,ON,-79.428803795,43.723109283,6113 Universities,Single,17805.48,10683.3
+80,62b1d195-9d85-4ea1-9817-e56eab758e3f,Hemauer,Colten,34,ON,-79.40232434100001,43.687301393,5241 Insurance carriers,Married,69868.0,41920.8
+81,ccc9f083-0bc6-430c-b9b9-c4f3d091e70c,Tench,Clark,19,ON,-79.3242731199,43.7787727745,3311 Iron and steel mills and ferro-alloy manufacturing,Single,3111.9,1867.14
+82,54f38c09-ccbf-4dfc-821b-317bd1174778,Dubel,Hassan,35,ON,-79.391062439,43.785860373,,Married,0.0,0.0
+83,91fbbaee-c79f-4718-ae18-d0a16c30390b,Kirven,Delaney,51,ON,-79.5474832168,43.6459851927,5415 Computer systems design and related services,Married,46491.05,27894.63
+84,9e4659bc-504d-4b27-af26-5238130042a5,Willington,Krissy,34,ON,-79.41465118229999,43.6421048734,6220 Hospitals (6221 to 6223),Married,91721.0,55032.60000000001
+85,9e8f0e7b-7acd-4d93-80a9-0e8b7382ef32,Horikoshi,Teegan,34,ON,-79.529567874,43.706327543,6111 Elementary and secondary schools,Married,23124.0,13874.4
+86,82ec7107-301e-4e19-94d6-56465e596cd7,Khilling,Kera,32,ON,-79.380039919,43.761452665600004,"3256 Soap, cleaning compound and toilet preparation manufacturing",Divorced,54903.0,32941.8
+87,f6c82b7f-c364-4495-aca8-73ad5de3e50d,Konrad,Hedy,14,ON,-79.3265949662,43.6723514598,,Single,0.0,122.4
+88,18342474-2547-40e6-b50f-ff451b985014,Gokey,Wilfred,23,ON,-79.3077487725,43.669709029399996,2382 Building equipment contractors,Single,15363.81,9218.28
+89,4bb91116-188a-4c8e-b513-799cfcacb5a4,Plaas,Oona,51,ON,-79.4343858225,43.6998278338,3371 Household and institutional furniture and kitchen cabinet manufacturing,Married,173923.7,104354.22
+90,881d84fa-6460-4534-91f5-a0430bc5d808,Sisemore,Morris,38,ON,-79.3939574313,43.64008873189999,3122 Tobacco manufacturing,Married,42737.0,25642.2
+91,ec483206-47b6-47b6-8f5f-d04287eeadcd,Sanantonio,Tyson,55,ON,-79.380039919,43.761452665600004,5617 Services to buildings and dwellings,Married,65067.0,39040.2
+92,1fdf625e-9602-4864-8e8d-128de11bd5ba,Loiselle,Jayden,50,ON,-79.2474811669,43.712908607799996,,Married,0.0,0.0
+93,5aac0493-7bc4-43dc-b233-6cb09e15a8ce,Nicola,Fabian,59,ON,-79.3421396983,43.6590895056,5411 Legal services,Married,61917.15,37150.29
+94,a0db4ffa-7ba7-43a9-ae19-7d06aa04fabe,Niewieroski,Brook,54,ON,-79.3265586633,43.810712403900006,4539 Other miscellaneous store retailers,Married,28437.2,17062.32
+95,0249bf2b-845f-4f2d-95d0-ce9e35a57055,Chang,Stefania,52,ON,-79.5016441929,43.7374999747,9120 Provincial and territorial public administration (9121 to 9129),Married,37946.55,22767.93
+96,4e7a1825-a1a5-4342-a351-6307816e77fb,Hoover,Charleen,50,ON,-79.42523783600001,43.7062532749,,Married,0.0,0.0
+97,b39f563e-a249-4493-a7a9-99c1a901926d,Neugin,Vishal,35,ON,-79.5009610922,43.7429406222,5221 Depository credit intermediation,Single,15544.0,9326.4
+98,bf4cfed1-bd4b-47e7-a0ba-7e998f290e3c,Trotto,Caleb,24,ON,-79.3214730582,43.6650425301,6243 Vocational rehabilitation services,Single,7743.45,4646.07
+99,d7b518ac-b11d-4e18-9ace-6c24342a7c6b,Cherny,Tommy,21,ON,-79.3939331766,43.6473909949,5239 Other financial investment activities,Single,8326.56,4995.93
+100,8d4fa362-45ad-4bee-9855-7ddaac7c6639,Zadeh,Efren,57,ON,-79.4357231738,43.6867075858,,Married,0.0,0.0
+101,55c37915-9d46-4042-9f30-0a6028cfb6da,Davoren,Lucille,16,ON,-79.529567874,43.706327543,,Single,0.0,24.81
+102,5a307f08-2d2b-49bc-8e93-d0441fd31b15,Hara,Rohan,65,ON,-79.5057020797,43.7153666358,,Married,0.0,0.0
+103,c2dcd96a-e591-4c5e-ad5e-ebd29f5c83d9,Tisdell,Altagracia,22,ON,-79.1466356605,43.7824321258,"4872 Scenic and sightseeing transportation, water",Single,13065.69,7839.42
+104,a7bf9cee-9d2e-432c-af55-08edaec729f1,Cheam,Izzie,22,ON,-79.400688603,43.637196151000005,5411 Legal services,Single,2783.55,1670.13
+105,bbc6b52a-36ca-417c-9261-8e5e1ffbbb28,Roszel,Jude,31,ON,-79.4410303906,43.7032633519,9120 Provincial and territorial public administration (9121 to 9129),Single,18898.0,11338.8
+106,975c79d2-57e3-4b1c-ac8a-cd504300a51f,Perrow,Daniela,26,ON,-79.573418964,43.6515904044,6220 Hospitals (6221 to 6223),Single,7595.28,4557.18
+107,55d59ca5-bd92-43f4-8878-93dbb9294e46,Liske,Eulah,50,ON,-79.4455162926,43.780281556300004,7221 Full-service restaurants,Married,70930.85,42558.51
+108,2c3d1254-61d6-4a22-9cde-5dfc086aaabb,Petrson,Kristian,34,ON,-79.2638428764,43.750636326000006,5614 Business support services,Single,17462.0,10477.2
+109,dcc228e7-2bbe-488e-872c-bb12ae3364a2,Harford,Onita,52,ON,-79.2853142425,43.772055504399994,"5413 Architectural, engineering and related services",Married,15513.5,9308.1
+110,da2f94b6-1baa-46ec-8621-d46cb8aff9cc,Vansoest,Shenita,34,ON,-79.1482899077,43.792161208500005,5221 Depository credit intermediation,Married,57975.0,34785.0
+111,6769f01e-78b1-4f74-8392-f76f02b3e60f,Christina,Alix,34,ON,-79.3871807987,43.649489268800004,6214 Out-patients care centres,Married,44168.0,26500.800000000007
+112,578e3afe-7988-48a3-b2a2-46561a3f0542,Pathak,Willard,59,ON,-79.3913448594,43.788810185200006,7221 Full-service restaurants,Married,49277.5,29566.5
+113,cdacdd41-469e-465e-b144-da8d17d34df0,Mcateer,Shanna,51,ON,-79.4192768237,43.6826483446,5231 Securities and commodity contracts intermediation and brokerage,Married,55086.15,33051.69
+114,2270ca30-64a7-4352-a7c2-f8c4516839e1,Eull,Rosann,52,ON,-79.212325142,43.7724635681,5241 Insurance carriers,Married,36509.05,21905.43
+115,603626ba-e47c-44ba-97fe-e8083f505f2d,Ghera,Cherlyn,23,ON,-79.5780494311,43.6275335945,4811 Scheduled air transportation,Single,8428.86,5057.31
+116,9d1e17fd-ee5f-4b6f-84d0-6671f99b1813,Mcgory,Clementine,54,ON,-79.52226136670001,43.6545402904,"3255 Paint, coating and adhesive manufacturing",Married,97386.6,58431.96
+117,18ce9b1f-dfbc-4911-b0b3-45bf90b5ce7f,Mckeever,Rosendo,37,ON,-79.4894942442,43.7384681264,5411 Legal services,Married,39628.0,23776.800000000007
+118,f55fe48c-9d77-4cbe-b07b-b8ccb8ace535,Fillinger,Thea,50,ON,-79.36251792670001,43.786141898500006,6111 Elementary and secondary schools,Married,28529.2,17117.52
+119,36a845b2-c864-445f-9695-188f686fcf34,Svedin,Xander,57,ON,-79.2309633441,43.751756756300004,9120 Provincial and territorial public administration (9121 to 9129),Married,43656.3,26193.78
+120,2b1eb490-975f-4c48-897a-0104e16cdd06,Organista,Isidro,50,ON,-79.4273303362,43.704431254700005,3261 Plastic product manufacturing,Married,75977.05,45586.23
+121,36633aa8-99ff-4b65-a885-c5bf67e8c122,Locust,Ed,49,ON,-79.3392062708,43.6807549768,"8139 Business, professional, labour and other membership organizations",Married,106321.6,63792.96
+122,3e19a38f-9525-4da9-a8e0-24dc0f3be9c9,Matzek,Glenna,54,ON,-79.43042978310001,43.7246901673,6113 Universities,Married,81184.25,48710.55
+123,487d9e86-ba39-4d7b-b498-dc6601a32e2d,Piwetz,Lillia,13,ON,-79.4657266814,43.751079053299996,,Single,0.0,15.0
+124,da400ff5-e86a-4002-b7a6-016a57232a26,Plantenberg,Digby,36,ON,-79.3535830039,43.6898019641,7211 Traveller accommodations,Married,33984.0,20390.4
+125,7ae6022b-e1a7-44d1-9039-3b550430bad9,Mallin,Yung,54,ON,-79.27072123800001,43.71136709899999,4431 Electronics and appliances stores,Married,35771.9,21463.14
+126,5b9a47ce-9e37-4948-84a8-466fbe2629e2,Joesph,Tasia,54,ON,-79.3421396983,43.6590895056,"4145 Pharmaceuticals, toiletries, cosmetics and sundries wholesaler-distributors",Married,70892.9,42535.74
+127,480e8b38-2676-4d63-892e-377a841fb640,Needles,Germain,39,ON,-79.4241346223,43.701521624099996,3329 Other fabricated metal product manufacturing,Married,37825.0,22695.0
+128,99d0c47b-1f15-48f7-80ca-288b40e3ddf5,Fillinger,Abram,53,ON,-79.36251792670001,43.786141898500006,"5242 Agencies, brokerages and other insurance related activities",Married,33455.8,20073.48
+129,7e308762-1e2e-4ef1-adaa-4d5a05c6e846,Caldwell,Cherry,52,ON,-79.5554658457,43.6731293805,5171 Wired telecommunications carriers,Married,25302.3,15181.38
+130,f14b576e-8581-498e-8294-0fa87f4d8fa7,Bennes-Colarossi,Gale,51,ON,-79.39138658430001,43.6787214208,,Married,0.0,0.0
+131,da1620e9-8f56-46d2-a3af-6a4ca00c00b0,Hackl-Herrod,Kirsten,34,ON,-79.3931272024,43.775995797600004,,Married,0.0,0.0
+132,4e695c5d-efb2-4704-939c-02606ba54177,Sarabando,Addison,47,ON,-79.1375616953,43.7829772229,5239 Other financial investment activities,Married,47690.5,28614.300000000007
+133,091b5a3b-e8b6-4efa-a5f4-73336f458412,Baran,Armand,50,ON,-79.1380996374,43.7731611749,2361 Residential building construction,Married,70627.25,42376.35000000001
+134,6d0ce956-a1c1-4aac-9add-3f09d4474773,Bernardy,Ainsley,54,ON,-79.4768116467,43.6667600589,2382 Building equipment contractors,Married,35674.15,21404.49
+135,f32e547c-cad4-47c1-925b-36ac7fb2c230,Niewieroski,Fergal,55,ON,-79.3265586633,43.810712403900006,"5416 Management, scientific and technical consulting services",Married,37108.2,22264.92
+136,c1b6e541-0f0e-4e6e-acd3-4fd8a199fcd7,Snetsinger,Rian,55,ON,-79.4673463748,43.653666528900004,7221 Full-service restaurants,Married,37426.75,22456.050000000007
+137,edc8d449-6b8b-4924-9006-5c01eec6538a,Condelario,Jacques,51,ON,-79.3175643582,43.6809336109,"5412 Accounting, tax preparation, bookkeeping and payroll services",Married,40539.8,24323.88
+138,eedff905-8585-4b26-b473-18080b6acd51,Roszel,Nelida,51,ON,-79.4410303906,43.7032633519,5221 Depository credit intermediation,Married,19495.95,11697.57
+139,1fd1efe7-90dd-4cb5-bec1-2df6c44cf2a6,Thoma,Gaylord,54,ON,-79.2471961942,43.769780411999996,9120 Provincial and territorial public administration (9121 to 9129),Married,57514.95,34508.97
+140,1cc9205a-573d-4a26-ab08-adb2f3564939,Acre,Henri,53,ON,-79.408554313,43.766636535,6111 Elementary and secondary schools,Married,35038.2,21022.92
+141,db147ba8-2be6-4918-b9d0-8d23c9c0c6de,Reasner,Kendal,54,ON,-79.3830971841,43.7689760134,3114 Fruit and vegetable preserving and specialty food manufacturing,Married,41263.15,24757.89
+142,6d5bba69-3368-4384-9eda-79d3c2e4f45b,Cheam,Adelene,52,ON,-79.400688603,43.637196151000005,"2211 Electric power generation, transmission and distribution",Married,9465.65,5679.39
+143,c502d353-f0f0-4d5d-8380-191d4a9b8121,Helseth,Jammie,54,ON,-79.42190550800001,43.641778135,6230 Nursing and residential care facilities (6231 to 6239),Married,61684.85,37010.91
+144,7fffae3f-2628-4264-b7da-3956430db95e,Figueron,Pasty,33,ON,-79.443829191,43.655979748,5239 Other financial investment activities,Married,41789.0,25073.4
+145,63379596-4f24-4ba3-a4ff-ed7935f1babc,Knaak,Chelsey,51,ON,-79.4888314321,43.6645292492,7221 Full-service restaurants,Married,130531.9,78319.14
+146,6338ca86-eb2d-4c31-8d0e-2552162db906,Spease,Kiyoko,21,ON,-79.4451703972,43.7898670361,3121 Beverage manufacturing,Single,4702.5,2821.5
+147,461901a0-45ef-4cb9-a1e2-8c860b0cf587,Legaspi,Marcelle,51,ON,-79.3009154421,43.751353926499995,5151 Radio and television broadcasting,Married,39857.85,23914.71
+148,732402e4-7faf-488c-a81b-b3f775799d92,Magel,Reese,52,ON,-79.361949878,43.657844903999994,,Married,0.0,0.0
+149,f3458963-e3d8-45ac-be89-472ad65c5dac,Attard,Muoi,54,ON,-79.522362092,43.765082447,4461 Health and personal care stores,Married,44717.75,26830.65
+150,29ea6d4b-4e8f-4cbd-8988-05fffd1c7a30,Higley,Troy,23,ON,-79.4963054926,43.6738385778,4461 Health and personal care stores,Single,8040.78,4824.480000000001
+151,0094a405-3b48-4b6d-bbba-4be41f38c2c4,Raney,Conan,45,ON,-79.52858579229999,43.6449745319,5616 Investigation and security services,Married,67106.6,40263.96
+152,5795d13e-a9f2-49cc-8e20-bc32a001bd77,Kalichman,Camila,54,ON,-79.52593931,43.768338083,5411 Legal services,Married,53613.0,32167.800000000007
+153,9359b6d0-5dc1-4637-863d-c2673041c343,Wolgamot,Malcolm,60,ON,-79.3109100657,43.7075824621,7221 Full-service restaurants,Married,27539.55,16523.73
+154,c30044bd-1c7b-44ef-b436-69ab8474369b,Brulotte,Tula,52,ON,-79.5452038455,43.765466376800006,,Married,0.0,0.0
+155,efb4876f-fd65-493c-8092-ec120f096543,Wikins,Kanisha,24,ON,-79.4054989644,43.670088649499995,7222 Limited-service restaurants,Single,8722.89,5233.74
+156,99c6c083-6993-4621-bb58-787c52f9d858,Lytch,Elroy,31,ON,-79.3918217726,43.6837736438,3272 Glass and glass product manufacturing,Married,55503.0,33301.8
+157,e6790f18-14b7-4031-a691-66e9e6cf2643,Mizia,Brennan,54,ON,-79.45380711109999,43.6400857417,5313 Activities related to real estate,Married,48573.7,29144.22
+158,ff27cbfa-8eb3-49c3-a306-efbb4a76abf8,Kaminski,Kaci,51,ON,-79.3693963392,43.785747873199995,4442 Lawn and garden equipment and supplies stores,Married,26651.25,15990.75
+159,bf163410-6075-4d69-9b3f-badfa473aa02,Krok,Kaila,51,ON,-79.41275458770001,43.7773646808,"5418 Advertising, public relations, and related services",Married,30564.7,18338.82
+160,7d70f376-5558-4e18-b02f-eab72417ec79,Fazzino-Churchman,Rolando,20,ON,-79.376348695,43.646235695,5312 Offices of real estate agents and brokers,Single,9150.24,5490.15
+161,24474525-c40a-41f6-883a-e2b9c71cf908,Antunes,Faisal,37,ON,-79.416253858,43.744184262,4481 Clothing stores,Married,83731.0,50238.60000000001
+162,ed3ad68a-c1f8-4d55-aeb1-69b0bed81771,Vandal,Ivan,36,ON,-79.4766756216,43.6999973614,5615 Travel arrangement and reservation services,Married,21928.0,13156.8
+163,09d62b36-0a16-4936-8aef-e4d0979db971,Stagers,Jaret,55,ON,-79.3528177159,43.6882992158,"5418 Advertising, public relations, and related services",Married,29741.3,17844.78
+164,e5a100e4-9744-4bff-bfc9-b46893de4901,Sarabia,Deangelo,39,ON,-79.3843073586,43.7025049851,"4161 Electrical, plumbing, heating and air-conditioning equipment and supplies wholesaler-distributors",Married,81794.0,49076.4
+165,85fef884-2994-4f99-899b-32343f28069a,Wakin,Ignacia,51,ON,-79.4959487855,43.6159946811,,Married,0.0,0.0
+166,0a21ef8f-cfcf-4b09-a250-de2bad704973,Hurne,Daniell,34,ON,-79.383308201,43.64141084600001,5616 Investigation and security services,Married,39528.0,23716.800000000007
+167,4f418d7a-8d92-4e1f-8788-6093f6632f5e,Clapsaddle,Tu,54,ON,-79.20381674149999,43.7638127672,6220 Hospitals (6221 to 6223),Married,16808.4,10085.04
+168,91ecaa1c-a6ab-4faf-a2f7-3bf39891afe2,Treible,Daphne,26,ON,-79.427643598,43.67249413,8134 Civic and social organizations,Single,7949.7,4769.82
+169,5c736b91-2c1e-45f2-bfe0-30297fadc328,Bernet,Tarquin,52,ON,-79.397188942,43.640440802,5241 Insurance carriers,Married,37240.45,22344.27
+170,da0a7be1-0489-4f8f-a944-d58648eb650c,Apana,Oliver,51,ON,-79.594358308,43.758040052,5221 Depository credit intermediation,Married,35355.6,21213.36
+171,9e38e533-95fb-41a8-b0a7-34fe4c5bfa24,Labossiere,Abbi,51,ON,-79.26631312079999,43.744135174600004,6211 Offices of physicians,Married,25662.25,15397.35
+172,72621fd3-a33b-4a83-94cb-e023542f422f,Kalka,Conner,18,ON,-79.371426797,43.6734731086,,Single,0.0,171.60000000000005
+173,acf7cb85-c33e-4819-a62e-9eb705bbfdb6,Crothers,Montgomery,56,ON,-79.3939331766,43.6473909949,"4532 Office supplies, stationery and gift stores",Married,38942.45,23365.47
+174,af6de143-9075-4633-8fd8-f5b0dfd18059,Rippon,Sherwin,34,ON,-79.3845637679,43.658374003199995,5151 Radio and television broadcasting,Married,56524.0,33914.399999999994
+175,9174eb66-82a0-4be1-8743-1843053e4627,Ruffins,Hannibal,59,ON,-79.4199968407,43.77903443140001,2389 Other specialty trade contractors,Married,36052.5,21631.5
+176,8cb8b139-de9d-4095-a3e6-8b22daeb31f1,Swander,Iggy,56,ON,-79.2257229585,43.798819216000005,4531 Florists,Married,50304.45,30182.67
+177,8a811baf-2fdb-41d1-bcd8-a7f5e9544658,Malvern,Dean,37,ON,-79.511602326,43.624575413,4851 Urban transit systems,Married,48608.0,29164.800000000007
+178,6e4deb87-7f46-4f64-bb61-ef30623f2120,Tod-Rouse,Pauletta,16,ON,-79.548159932,43.749436556000006,,Single,0.0,232.41
+179,6a9e8671-7626-4ac7-89f6-5bf73e12e373,Loessberg,Kody,57,ON,-79.5124723946,43.6254476008,5221 Depository credit intermediation,Married,52902.3,31741.38
+180,64b5d5c8-04e0-4b28-b429-478ffee8ed83,Nicolls,Rory,24,ON,-79.431066,43.661785306000006,7223 Special food services,Married,13263.03,7957.83
+181,7c4dad9b-bdf6-4912-81d7-1b2c3654610a,Orme-Magel,Emmy,52,ON,-79.361949878,43.657844903999994,5615 Travel arrangement and reservation services,Married,72306.25,43383.75
+182,40fcfdc5-3221-46e8-a471-9a7d247c0ae6,Carrillo,Cristine,34,ON,-79.4584516418,43.6712176224,5221 Depository credit intermediation,Married,65094.0,39056.4
+183,dd331f31-1524-4a2c-b3eb-9db92aaa5bb9,Grandos,Ricarda,52,ON,-79.2779835798,43.692938947799995,,Married,0.0,0.0
+184,502b6d7e-7280-470f-b7a6-8213d683dffe,Chacko,Yardley,34,ON,-79.2082973259,43.805404306599996,5414 Specialized design services,Married,32637.0,19582.2
+185,92f89e73-ea7d-45a4-8c16-e9ec17932003,Tisdell,Glenda,51,ON,-79.1466356605,43.7824321258,"4172 Construction, forestry, mining, and industrial machinery, equipment and supplies wholesaler-distributors",Married,42433.85,25460.31
+186,a8eb9c99-0be8-4627-b5ee-a1dbce60b624,Grimwood,Marquerite,54,ON,-79.40153497770001,43.6491095679,5312 Offices of real estate agents and brokers,Married,34020.45,20412.27
+187,d9980e9a-f559-4a2e-9946-783df5779ef8,Sittig,Marley,51,ON,-79.22226052010001,43.7798837988,8122 Funeral services,Married,18513.85,11108.31
+188,45aa0536-a972-4482-badd-cb565030f17b,Betz,Felicita,54,ON,-79.3547364725,43.6772212401,"5242 Agencies, brokerages and other insurance related activities",Married,101841.7,61105.02
+189,0591fa33-9b1f-40af-8bd9-f44e7c80d936,Tylwalk,Cortez,51,ON,-79.3050102685,43.7284796451,8122 Funeral services,Married,30801.6,18480.96
+190,c4ff66f1-fc90-46bd-a6bf-25ce95c12f3a,Musolf,Luna,54,ON,-79.38990029600001,43.727932421999995,,Married,0.0,0.0
+191,a4bc4e0d-1e94-4bcf-a113-1d10cfe90bdf,Vandam-Locust,Corazon,50,ON,-79.3392062708,43.6807549768,,Married,0.0,0.0
+192,ce1e23e8-500f-4990-993e-62a086fa62bb,Crout,Margery,54,ON,-79.3403739685,43.696634429300005,"2373 Highway, street and bridge construction",Married,71600.15,42960.09
+193,c519a189-d24b-450e-a0e7-b596932867d6,Vlchek,Scarlett,54,ON,-79.4997607949,43.7069298016,6213 Offices of other health practitioners,Married,18808.25,11284.95
+194,ea81a2ae-0095-44a4-8dd2-76dcae89faaf,Durand,Vanita,14,ON,-79.5582545705,43.694870348,,Single,0.0,166.38
+195,740b52d1-384c-46c7-9d30-405d00c9a3d9,Kerst,Aiden,63,ON,-79.30495833270001,43.73747601229999,5241 Insurance carriers,Married,30563.4,18338.04
+196,86305912-4226-4cce-82b6-ee0962808086,Bouie,Zarah,50,ON,-79.2096621037,43.8077274038,"3256 Soap, cleaning compound and toilet preparation manufacturing",Married,34148.1,20488.86
+197,d3362ef6-3390-46f9-bdcf-1fcc8d00d26e,Dannecker,Samuel,40,ON,-79.4079120136,43.7288538045,3312 Steel product manufacturing from purchased steel,Married,118728.5,71237.1
+198,eb8fcfb6-eb1d-4999-8768-774f0af4d110,Turnbull,Kasper,53,ON,-79.55991291,43.643144477,"6242 Community food and housing, and emergency and other relief services",Married,45115.65,27069.39
+199,f3518df3-3462-4182-b1ba-96bf228ed148,Glaza,Kingsley,26,ON,-79.5521888034,43.640854134099996,9120 Provincial and territorial public administration (9121 to 9129),Single,13421.76,8053.049999999998
+200,d74e78b5-659f-4a09-ad3e-49f4e410492f,Loso,Idella,34,ON,-79.374873794,43.65684641399999,4481 Clothing stores,Married,33076.0,19845.6
+201,c65f915f-4503-4471-86f8-6cd368226fba,Snetsinger,Venetia,50,ON,-79.4673463748,43.653666528900004,7224 Drinking places (alcoholic beverages),Married,40995.2,24597.120000000006
+202,df5bcff5-483e-4e50-b6e5-602846ac06ff,Yovan,Ursula,33,ON,-79.511602326,43.624575413,5221 Depository credit intermediation,Married,64509.0,38705.4
+203,8e3d3784-9e27-4ee0-9d40-57321d9c5756,Sanderfer,Valentino,53,ON,-79.38545471399999,43.664424262,6111 Elementary and secondary schools,Married,23650.9,14190.54
+204,b71d302a-be32-4ded-ba1d-33291eb5f8d8,Icard-Plantenberg,Cailin,33,ON,-79.3535830039,43.6898019641,6113 Universities,Married,37957.0,22774.2
+205,8d583cdf-976d-4a8c-815a-3d232d280f62,Rouse,Mitchell,35,ON,-79.548159932,43.749436556000006,7222 Limited-service restaurants,Married,62468.0,37480.8
+206,511b6931-a952-42c4-b405-5d458df01f05,Salemo,Camilla,24,ON,-79.197018857,43.7536973368,5241 Insurance carriers,Single,20968.86,12581.31
+207,1f695a6a-151a-44d9-a975-9caae2d2c06d,Fabela,Sidney,56,ON,-79.4101626129,43.686272653,5221 Depository credit intermediation,Married,77067.25,46240.35000000001
+208,8001c8a0-0513-4d9b-ab3d-d4daafedc643,Dubel,Claribel,16,ON,-79.391062439,43.785860373,,Single,0.0,35.28
+209,99b161f6-5e55-4099-bd34-83fcfc0597ae,Furlone,Bud,39,ON,-79.44083783,43.728746286,4451 Grocery stores,Married,29136.0,17481.6
+210,4376e1d3-09e5-4f09-a1e0-4bf392463b92,Bacher,Kasey,19,ON,-79.21526027729999,43.7961706128,5221 Depository credit intermediation,Single,5989.17,3593.49
+211,067fa0cc-e462-497e-920a-cf5bdc465827,Frescas,Joan,35,ON,-79.3916934771,43.68168832560001,6212 Offices of dentists,Single,38209.0,22925.4
+212,74e3ae53-da3d-4058-8246-9df84f17e4d0,Wilford-Dannecker,Evette,34,ON,-79.4079120136,43.7288538045,5241 Insurance carriers,Married,90590.0,54354.0
+213,84e87f2e-5cf5-4c40-b65d-5cf4d1ac8755,Puig,Hudson,57,ON,-79.40153497770001,43.6491095679,6111 Elementary and secondary schools,Married,32778.45,19667.07
+214,172b6a27-24b2-430b-938c-cbcc291f91f4,Caldwell,Season,34,ON,-79.5554658457,43.6731293805,5617 Services to buildings and dwellings,Single,25066.0,15039.6
+215,cb00e3f9-4049-4cd3-a06c-1befa7d71c30,Vallieres,Lamar,35,ON,-79.3717210615,43.669078059700006,6220 Hospitals (6221 to 6223),Single,11622.0,6973.200000000002
+216,b6bb86c6-195f-41f4-9579-3ef5b4afea36,Piwetz,Helene,52,ON,-79.4657266814,43.751079053299996,3323 Architectural and structural manufacturing,Married,28447.55,17068.53
+217,5d8b7892-18de-497a-bb58-49c05d168696,Fobbs,Vergie,50,ON,-79.397188942,43.640440802,5221 Depository credit intermediation,Married,40488.05,24292.83
+218,68b87d34-a632-4938-ab2c-9b2e4ff9f8c9,Davoren,Donny,34,ON,-79.529567874,43.706327543,5417 Scientific research and development services,Married,21234.0,12740.4
+219,20c3a10c-7e4f-49b2-83bd-38d9ef6b5bc2,Rasanen,Brooks,56,ON,-79.54806509069999,43.713431754300004,6211 Offices of physicians,Married,34869.15,20921.49
+220,32286529-fa04-4300-a01c-85c63691b7e8,Pen,Julio,55,ON,-79.51095348369999,43.765738444200004,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,19688.0,11812.8
+221,8404e733-b088-4269-b85b-7c035f952834,Oconnell-Dippel,Amir,54,ON,-79.40207984,43.729482925,"5111 Newspaper, periodical, book and director publishers",Married,119099.75,71459.85
+222,a5d5b773-2029-4563-8c05-99adf5e267f4,Celius,Shera,51,ON,-79.5811634362,43.6674664045,5616 Investigation and security services,Married,135673.55,81404.13
+223,64719b40-32ab-46cd-85ed-b1bb6cdd3345,Spease,Leo,22,ON,-79.4451703972,43.7898670361,7221 Full-service restaurants,Single,3546.84,2128.11
+224,a6b61f70-4acc-4ed8-bc7e-2f37cedb17bb,Ensey,Deacon,53,ON,-79.3744550751,43.8064165646,"3221 Pulp, paper and paperboard mills",Married,48669.15,29201.49
+225,83ff91cd-228c-482f-a94a-047ce12871da,Thammavongsa,Jayden,36,ON,-79.21592152640001,43.8245517624,"8139 Business, professional, labour and other membership organizations",Married,52336.0,31401.6
+226,4fcc5fd9-eb4d-4866-b352-d2115b8931d3,Premo-Muscato,Justine,51,ON,-79.475087435,43.651817838999996,5221 Depository credit intermediation,Married,80489.65,48293.79
+227,00f3d2d6-0152-423a-bea8-7359ec61459f,Bacher,Grey,64,ON,-79.21526027729999,43.7961706128,5411 Legal services,Married,16246.9,9748.14
+228,83b05877-1dfd-40d1-9ee1-fbbff178f92f,Brosnahan,Liane,34,ON,-79.1813695095,43.7555182822,4184 Chemical (except agricultural) and allied product wholesaler-distributors,Married,50227.0,30136.2
+229,258e1694-4985-4bcf-becf-fd7a3cb4bfe7,Trippi,Bastian,57,ON,-79.4351054385,43.675620116800005,,Married,0.0,0.0
+230,57e2363b-18ab-449d-94b5-4def98baed72,Rabun,Edouard,21,ON,-79.4509789267,43.6407822333,5614 Business support services,Single,13926.0,8355.599999999999
+231,66efe3cd-b334-43aa-a23a-543c21d7fa7c,Scarduzio-Hemauer,Angelique,34,ON,-79.40232434100001,43.687301393,2383 Building finishing contractors,Married,65312.0,39187.2
+232,8edac643-67fe-4002-8efd-a6d6bdd9beb6,Kules,Lazaro,38,ON,-79.42005527229999,43.7399203058,6230 Nursing and residential care facilities (6231 to 6239),Married,71419.0,42851.4
+233,8f673f4d-58b5-4359-b855-f8d2b74a96bc,Maynor,Narelle,29,ON,-79.463606215,43.687335607600005,6220 Hospitals (6221 to 6223),Single,6791.4,4074.84
+234,3540c002-bcd4-4fe5-806e-08b2d36c23fd,Mcentegart-Warzecha,Indie,54,ON,-79.3685775208,43.6494380317,8123 Dry cleaning and laundry services,Married,41840.45,25104.27
+235,9333dc67-a84c-461e-b360-1a2343f91767,Wakin,Daxter,14,ON,-79.4959487855,43.6159946811,,Single,0.0,106.89
+236,b33c45c2-af72-4a4a-9341-9cf18531ba6a,Labossiere,Thad,69,ON,-79.26631312079999,43.744135174600004,6220 Hospitals (6221 to 6223),Married,20742.3,12445.38
+237,8b7f77de-bcce-42b9-9643-dcf1eb7d41e8,Bisch,Carlisle,48,ON,-79.522362092,43.765082447,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,43068.3,25840.98
+238,cfb71043-2177-4204-b5b7-8103015edf7d,Yovan,Damien,14,ON,-79.511602326,43.624575413,,Single,0.0,96.6
+239,aab8e465-ab4c-4242-8b4b-3101418cfff4,Stivers,Finn,43,ON,-79.2077984962,43.8182080535,5269 Other funds and financial vehicles,Married,41218.1,24730.86
+240,c8d3eda9-9c8f-4e12-8802-50600083a4bb,Moncure,Ronda,28,ON,-79.1335642556,43.7822380566,"5111 Newspaper, periodical, book and director publishers",Single,9917.82,5950.68
+241,4740c6ba-ad73-4f09-bc41-d6b5fb9dd3d9,Terzian,Petar,54,ON,-79.414811472,43.76619665,4529 Other general merchandise stores,Married,30901.65,18540.99
+242,001a31a4-1b3f-4a3d-9bf6-f134e6b44f6f,Wroten,Christeen,34,ON,-79.400446074,43.6956302032,4481 Clothing stores,Married,60939.0,36563.4
+243,933acd01-fb47-46c0-8b4c-8c92c8cf2c83,Salemo,Diarmuid,36,ON,-79.197018857,43.7536973368,6212 Offices of dentists,Married,52660.0,31596.0
+244,febf76f9-97fb-4c9e-a047-9e905ec6cf54,Skowyra,Branson,30,ON,-79.3863015962,43.666396149200004,6220 Hospitals (6221 to 6223),Single,3996.3,2397.78
+245,9699173a-186f-4c83-8b60-be8bf8c7b638,Bennes-Colarossi,Peregrine,14,ON,-79.39138658430001,43.6787214208,,Single,0.0,229.62
+246,fc6be7c4-eeb4-4289-91a6-b22a55557044,Missildine,Romeo,49,ON,-79.3909945698,43.6782065328,"5418 Advertising, public relations, and related services",Married,42083.8,25250.28
+247,9bf0c494-18d9-4f02-9429-99506c297fca,Bala,Benji,56,ON,-79.40879179699999,43.7592348178,7222 Limited-service restaurants,Married,45390.5,27234.300000000007
+248,085fac17-d663-43fb-8e38-5ac86a9ab0ff,Tille,Phyllis,50,ON,-79.4289537195,43.6364200969,5617 Services to buildings and dwellings,Married,29369.85,17621.91
+249,06e0affc-4764-4e06-b76b-7c3030b46ab8,Dragna,Rosemary,20,ON,-79.2082347232,43.736663666400005,3251 Basic chemical manufacturing,Single,10895.61,6537.36
+250,b671acfb-3bb1-44c0-9543-b42450bf6b27,Mcentee,Iraida,54,ON,-79.5198266294,43.7019082741,4543 Direct selling establishments,Married,19715.6,11829.36
+251,025f8fe0-37e5-4088-964d-2593adf41a63,Raub,Daryl,52,ON,-79.594358308,43.758040052,4451 Grocery stores,Married,30401.4,18240.84
+252,e03cfe61-67a2-496a-83e7-64a632851bc1,Lutterman,Campbell,21,ON,-79.2153791533,43.7797527244,5619 Other support services,Single,11190.3,6714.18
+253,093de729-2005-4a1f-8cfc-ea11a5ee68a4,Bacher,Chip,25,ON,-79.21526027729999,43.7961706128,8133 Social advocacy organizations,Single,5719.23,3431.55
+254,0159a9af-5ee1-4823-830e-4af9f69e8075,Gokey,Sadie,17,ON,-79.3077487725,43.669709029399996,,Single,0.0,67.53
+255,bc1747e6-acb9-4d24-81eb-c72de1ae76bf,Ridgeway,Alton,23,ON,-79.3190606862,43.7512558438,6220 Hospitals (6221 to 6223),Single,6959.04,4175.43
+256,82b65eea-ba2b-4db5-8b33-bab195a41503,Dailey,Ouida,20,ON,-79.2797731128,43.679826569700005,9111 Defence services,Single,12972.3,7783.38
+257,c7ee31e3-74c0-4492-8bb6-6d0363a11df7,Siegwarth,Kobe,46,ON,-79.521855084,43.746245788,"5416 Management, scientific and technical consulting services",Married,25929.2,15557.52
+258,fa4772fa-737a-4557-865e-a1e958b5b28e,Begor,Yong,54,ON,-79.5124723946,43.6254476008,,Married,0.0,0.0
+259,6009b52c-0a46-4123-a3a2-00c2abb7582b,Pettner,Bennie,52,ON,-79.595495643,43.7320438445,6220 Hospitals (6221 to 6223),Married,30075.95,18045.57
+260,440c2371-ca2a-4093-86fc-6f422eb8336d,Ocken,Amaya,50,ON,-79.49593042939999,43.6543909769,6112 Community colleges and C.E.G.E.P.s,Married,87322.95,52393.77
+261,84824226-d33d-42bf-a2a6-ee4c57efcefe,Tisdell,Cornell,33,ON,-79.1466356605,43.7824321258,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,42300.0,25380.0
+262,377674a0-4641-4afc-8dab-f32743ef7260,Vandesteeg,Lake,23,ON,-79.3792078222,43.647291063100006,5415 Computer systems design and related services,Single,12635.04,7581.030000000002
+263,0de2e5be-157c-4d08-8e00-7e5da6bad83c,Orgill,Issac,54,ON,-79.36483396060001,43.6689789023,5411 Legal services,Married,123393.85,74036.31
+264,32674ab4-548b-4949-9577-b6ce3641fab5,Hasencamp,Miracle,50,ON,-79.41282243159999,43.7624163297,5261 Pension funds,Married,36290.55,21774.33
+265,1b8c87f3-b97a-4cd4-b6eb-809736570638,Pondexter,Sudie,53,ON,-79.256770973,43.7292557151,5241 Insurance carriers,Married,40651.35,24390.81
+266,43c7911e-b662-454f-a9f7-edf97eb06414,Skowyra,Jaye,33,ON,-79.3863015962,43.666396149200004,,Single,0.0,0.0
+267,451374e1-8026-4945-a5c2-aa77d7654af7,Buell,Simeon,49,ON,-79.20770646140001,43.8457915565,5221 Depository credit intermediation,Married,40404.1,24242.46
+268,d49d381b-086a-4982-aadb-9f0d0063c1dc,Tiotuico,Fernand,51,ON,-79.3986155688,43.684945027,"5418 Advertising, public relations, and related services",Married,62971.7,37783.02
+269,b318ed1d-4fad-4dfd-81b8-c46660b848aa,Mering,Jadon,61,ON,-79.25452406720001,43.7223588071,5239 Other financial investment activities,Married,27404.65,16442.79
+270,83897cad-9219-4fba-81a3-3e03d38cc900,Beaver,Donette,52,ON,-79.3376971094,43.6828421234,"5242 Agencies, brokerages and other insurance related activities",Married,64035.45,38421.27
+271,c54f12e2-90c0-481d-94c9-1e2642c4073d,Fullbright,Shyann,50,ON,-79.1476648213,43.7847243691,5617 Services to buildings and dwellings,Married,58660.35,35196.21
+272,424fd391-9d61-4dcf-998c-ccf41d57d635,Karabin,Dax,17,ON,-79.2825436183,43.7140225,,Single,0.0,174.96
+273,62a20b8e-64e2-4a56-91e9-e0e03294affa,Poat,Dawn,34,ON,-79.5044987076,43.7452313789,6220 Hospitals (6221 to 6223),Married,38096.0,22857.6
+274,8d6494ee-ac2f-45b5-b0a1-5844a283fafe,Gottardo,Aloysius,34,ON,-79.3196130102,43.6743861921,6111 Elementary and secondary schools,Married,74916.0,44949.60000000001
+275,9bdd2311-ca9f-42a4-9463-04c649930d96,Wikins,Jorge,51,ON,-79.4054989644,43.670088649499995,5151 Radio and television broadcasting,Married,32304.65,19382.79
+276,8cfccd87-676e-44f1-accb-81833ec88a80,Clapsaddle,Payton,33,ON,-79.20381674149999,43.7638127672,"5111 Newspaper, periodical, book and director publishers",Single,13117.0,7870.200000000002
+277,f97e0a9d-612b-409b-b4dd-36b87da17250,Cockburn,Adelina,50,ON,-79.3986155688,43.684945027,8111 Automotive repair and maintenance,Married,61955.1,37173.06
+278,202373f9-5361-4f16-981c-77df99bf4b3e,Stransky,Tobin,51,ON,-79.1522364799,43.7899242069,4481 Clothing stores,Married,66971.4,40182.84
+279,72822705-d729-4430-b39a-f53b951d57e0,Lomascolo,Rosia,34,ON,-79.5871043127,43.754436232299994,4521 Department stores,Married,28047.0,16828.199999999993
+280,2712400e-0d73-48d2-9623-d5f08e0e14f7,Vazzana,Pasquale,37,ON,-79.428803795,43.723109283,"8139 Business, professional, labour and other membership organizations",Married,59104.0,35462.399999999994
+281,b7fccd7f-6bc1-41ed-9374-fda0c2e0abda,Frescas,Lucian,55,ON,-79.3916934771,43.68168832560001,,Married,0.0,0.0
+282,0c400900-fc34-4394-9899-3c72940afa8d,Ferrato,Madeleine,37,ON,-79.389496352,43.672723026999996,9112-9119 Other federal services,Divorced,44824.0,26894.4
+283,8fb231df-c83b-441b-8b61-3a3ca8b07329,Fullington-Savi,Pilar,34,ON,-79.1786001471,43.803945734799996,"5412 Accounting, tax preparation, bookkeeping and payroll services",Married,32351.0,19410.6
+284,8d627a2a-5f3b-4a3f-988d-e5e6edcf1ed7,Frescas,Hazel,21,ON,-79.3916934771,43.68168832560001,2382 Building equipment contractors,Single,14516.37,8709.81
+285,a2936e27-fb89-4552-a775-9be0979ca7f5,Crout,Leon,13,ON,-79.3403739685,43.696634429300005,,Single,0.0,17.85
+286,6ce67c72-676a-4d14-88b6-9a75cf7731d4,Retek,Dimple,54,ON,-79.5360997656,43.720426325,5171 Wired telecommunications carriers,Married,33315.5,19989.300000000007
+287,a291c80d-a6f8-4dd5-9d44-6948020cc547,Mertes,Elodia,34,ON,-79.4885909687,43.609329001400006,,Married,0.0,0.0
+288,21f4380d-765c-466f-807f-df26ca287e9a,Rizvi,Alesia,54,ON,-79.39035276,43.67057530100001,"5416 Management, scientific and technical consulting services",Married,75571.1,45342.66
+289,284720f1-3303-44d5-bde7-6fb608977056,Snetsinger,Braeden,23,ON,-79.4673463748,43.653666528900004,5191 Other information services,Single,10127.7,6076.62
+290,6d6a1677-ca0d-4b65-b1b7-790674dab13f,Leoni,Nguyet,51,ON,-79.595495643,43.7320438445,7211 Traveller accommodations,Married,32477.15,19486.29
+291,06183b30-b9d1-48b3-8b18-a8f5f6c3eaf1,Seigler,Rutherford,51,ON,-79.2957909504,43.6880698015,4482 Shoe stores,Married,15667.6,9400.56
+292,f47911bc-6739-4ed3-8a96-2e52fd841d32,Renova-Missildine,Venessa,34,ON,-79.3909945698,43.6782065328,3372 Office furniture (including fixtures) manufacturing,Single,52162.0,31297.2
+293,dc92b070-eafc-4e96-91e7-aa0dc4cf41a1,Butzen,London,49,ON,-79.400688603,43.637196151000005,2383 Building finishing contractors,Married,11982.3,7189.38
+294,3b8cf06d-e65e-47fd-9206-d26fdccef6ae,Dunklin,Hywel,18,ON,-79.4975059697,43.7385322634,,Single,0.0,122.76
+295,a1899297-721b-4456-adf4-bb3c3737f221,Debes,Carl,55,ON,-79.4287753813,43.661615786599995,,Married,0.0,0.0
+296,81cacc90-52f8-4cff-bc2d-e02057bc4379,Donchez,Owain,56,ON,-79.4960697911,43.744935471400005,5617 Services to buildings and dwellings,Married,32938.3,19762.98
+297,986390b0-5462-4518-9f89-0b14f47704e8,Kienast-Piroso,Albany,34,ON,-79.3949448347,43.7067805618,6244 Child day-care services,Married,46819.0,28091.4
+298,ccb10d06-2420-4825-b79d-a4bac6713c9f,Housman,Micheline,52,ON,-79.41112356800001,43.771683691999996,6111 Elementary and secondary schools,Married,37035.75,22221.45
+299,7e71c38c-e5e9-4bc0-a88e-d76389b3bc47,Pihl-Csizmadia,Inez,51,ON,-79.464807315,43.655223678999995,5614 Business support services,Married,45121.4,27072.840000000004
+300,2d9857d6-beb1-48de-a51d-c53ab5917297,Ghera,Ebony,50,ON,-79.5780494311,43.6275335945,8121 Personal care services,Married,24354.7,14612.82
+301,0910020e-da4e-459f-8e45-930d3ada8d5d,Seaver,Avery,50,ON,-79.3846568792,43.669558393,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,15119.05,9071.43
+302,d8eec647-e762-46ae-a3c7-25b8205e164c,Wakin,Renesmee,30,ON,-79.4959487855,43.6159946811,6244 Child day-care services,Single,12579.6,7547.76
+303,9aca1d83-51b7-459c-9b40-1629dbe8bc1e,Moncure,Kimberlie,50,ON,-79.1335642556,43.7822380566,4111 Farm product wholesaler-distributors,Married,41149.3,24689.58
+304,27330ac3-8aec-472c-bb1a-6b5b614f47f9,Ditzel,Jacki,18,ON,-79.5925793862,43.7377972834,,Single,0.0,202.08
+305,203d8ab7-c9c1-4bbe-b55b-9338554fb554,Elliston,Kendra,34,ON,-79.3914878813,43.7944309975,4529 Other general merchandise stores,Married,66333.0,39799.8
+306,ad1c7a0e-7d14-44bc-8e62-50ebbccdba17,Delavergne,Emmerson,53,ON,-79.39035276,43.67057530100001,2372 Land subdivision,Married,85361.05,51216.63
+307,f4187935-d0ad-4b29-915c-1ea8638e976e,Mahrer,Raya,52,ON,-79.57670261199999,43.647764637,5221 Depository credit intermediation,Married,31253.55,18752.13
+308,8cdf5b19-71cc-4ced-9007-333434531046,Sundin,Valarie,34,ON,-79.34220083689999,43.660842180799996,"5419 Other professional, scientific and technical services",Married,52910.0,31746.0
+309,7ab54521-9cec-464f-98ca-d92846bc6810,Monda,Mac,68,ON,-79.4164897842,43.672880544399995,5417 Scientific research and development services,Married,54079.7,32447.82
+310,9ed07e87-d306-4237-bf73-23bcdb4f5a38,Celius,Landyn,58,ON,-79.5811634362,43.6674664045,,Married,0.0,0.0
+311,98d6ecae-e464-4c64-99be-9dc5cef828ca,Stritzinger,Jean,55,ON,-79.2853142425,43.772055504399994,7222 Limited-service restaurants,Married,12984.65,7790.789999999999
+312,6dfc564f-9055-40be-8d6b-e3560a0bc319,Dippel,Sherley,50,ON,-79.40207984,43.729482925,5614 Business support services,Married,93764.1,56258.46
+313,65a28ea0-24cc-4743-bc62-45fd9c06b8d1,Smuin,Kiran,31,ON,-79.36537781,43.78902265600001,6113 Universities,Married,38733.0,23239.800000000007
+314,82a08b75-e3ca-4ceb-a143-7808dd8caf5a,Bennes-Colarossi,Anisha,22,ON,-79.39138658430001,43.6787214208,5311 Lessors of real estate,Single,15113.01,9067.8
+315,57f8bf94-99df-4648-94e0-e323cee0727a,Spease,Lashawn,18,ON,-79.4451703972,43.7898670361,,Single,0.0,225.51
+316,10fcae86-6b3a-4049-8482-963190f8d48c,Londre,Jonah,56,ON,-79.5191518357,43.7551112329,8133 Social advocacy organizations,Married,26584.55,15950.73
+317,2ad6f38d-3ddc-4ce6-81e7-b5b92682b365,Daven,Floyd,42,ON,-79.390705463,43.6739384943,4461 Health and personal care stores,Married,64035.4,38421.24
+318,e2d27ce3-5024-466a-b18f-87d7cd91f409,Helble,Lucas,49,ON,-79.51696442640001,43.7508999551,5239 Other financial investment activities,Married,25973.2,15583.920000000002
+319,46eb809b-8767-404a-8eb2-56eede445c32,Begor,Rian,17,ON,-79.5124723946,43.6254476008,,Single,0.0,64.11
+320,7f33349b-234c-469a-a74f-0ecd8c5dbe9c,Honea,Ulrica,34,ON,-79.4399661419,43.688278223000005,6114 Business schools and computer and management training,Married,34414.0,20648.4
+321,6ee90310-515d-4a71-8162-4b4886dd5b68,Peevy,Philbert,38,ON,-79.5166736036,43.687791275100004,5221 Depository credit intermediation,Married,43992.0,26395.2
+322,e0c85060-f253-4972-afa4-bee582532fcf,Cockburn,Gayle,13,ON,-79.3986155688,43.684945027,,Single,0.0,29.43
+323,637ccf25-6786-45cc-a526-b0b3651a1891,Carrillo,Randell,38,ON,-79.4584516418,43.6712176224,,Married,0.0,0.0
+324,1edafb5d-9293-49ed-b63d-89396b11a8ce,Draeger,Annabel,34,ON,-79.454271307,43.7525178723,5241 Insurance carriers,Married,28216.0,16929.6
+325,adac1acb-0ce1-40dd-bd8b-0b991f79e077,Moeck,Kyden,45,ON,-79.41044295409999,43.7648208317,,Married,0.0,0.0
+326,f197402e-4e2d-4420-a489-33993bf14244,Durand,Valerie,34,ON,-79.5582545705,43.694870348,5415 Computer systems design and related services,Married,26352.0,15811.2
+327,6adb58ce-46f4-4665-b08d-1b799828ec26,Naimoli,Morton,59,ON,-79.49275550899999,43.613273168999996,6220 Hospitals (6221 to 6223),Married,57345.9,34407.54
+328,2429a4d6-3271-4df8-b726-3c14451c1be8,Leisy,Lucian,53,ON,-79.4232387267,43.7286923204,"5418 Advertising, public relations, and related services",Married,89847.2,53908.31999999999
+329,e96a77da-6241-4f4c-9cac-619ac705f85a,Guemmer,Usama,30,ON,-79.54533020560001,43.655865105100006,"5413 Architectural, engineering and related services",Single,9950.16,5970.09
+330,9f025a73-fd64-44a8-8bcd-626f21bf46fe,Wilbers,Raymundo,52,ON,-79.490917571,43.750934698,7211 Traveller accommodations,Married,29808.0,17884.800000000007
+331,5797afbd-76d3-4fb8-bd6e-39de416ee7d1,Sjaarda,Klaus,51,ON,-79.4808027202,43.71200670020001,5221 Depository credit intermediation,Married,40244.25,24146.550000000007
+332,479a568b-e26e-48c6-986d-55cfa69270d1,Kizewski,Andrew,52,ON,-79.3528177159,43.6882992158,5239 Other financial investment activities,Married,40278.75,24167.25
+333,d7635a6b-fd68-4da9-bae8-d689bf4c7b06,Ritmiller,Annelle,34,ON,-79.4108059393,43.70131855,6212 Offices of dentists,Married,134042.0,80425.20000000001
+334,00bd894e-94b7-496e-80ba-5004f8589812,Roszel,Isidro,56,ON,-79.4410303906,43.7032633519,7221 Full-service restaurants,Married,16604.85,9962.91
+335,70d3bb11-a28f-4c4f-b97c-c20bf8cc93b0,Raub,Jutta,17,ON,-79.594358308,43.758040052,,Single,0.0,61.86
+336,bce1643a-6bf4-4c6a-bb70-017c34b526c7,Choudhury,Carissa,34,ON,-79.23353595100001,43.7324721053,5171 Wired telecommunications carriers,Married,51906.0,31143.6
+337,8e71ad03-0665-4732-834f-91d9cb5aee11,Deline,Albertina,54,ON,-79.5723962262,43.649150752299995,,Married,0.0,0.0
+338,e93c500e-994c-407c-b7c1-1cc907a4c52c,Sorin,Tess,54,ON,-79.51491830319999,43.646368721099996,5221 Depository credit intermediation,Married,103574.75,62144.85000000001
+339,fba572a2-c4b5-482c-ac07-b270bbc6108f,Engelhardt,Nyle,56,ON,-79.4192768237,43.6826483446,6230 Nursing and residential care facilities (6231 to 6239),Married,59195.1,35517.06
+340,a5c9b4dd-2df1-4452-b95b-f81ccb958270,Beckor,Lynsey,51,ON,-79.5784886969,43.644172175600005,,Married,0.0,0.0
+341,04a59ed0-c1b9-464c-832c-bfdafe9cb353,Tench,Carlynn,50,ON,-79.3242731199,43.7787727745,5616 Investigation and security services,Married,13152.55,7891.530000000002
+342,291fa3f0-ed1a-497c-94dc-fa84b28c217f,Skowyra,Chaz,52,ON,-79.3863015962,43.666396149200004,6113 Universities,Married,19285.5,11571.3
+343,f2d40d0d-ef28-4316-89d6-ea3dd2be986e,Draeger,Joesph,41,ON,-79.454271307,43.7525178723,"5418 Advertising, public relations, and related services",Married,41816.5,25089.9
+344,c25f79ef-5eb5-4107-9371-76241cac952a,Trimis,Yajaira,29,ON,-79.50316079609999,43.7205376278,3231 Printing and related support activities,Single,4114.11,2468.46
+345,9333ed49-431f-4add-8fd5-cd27c63c5d94,Thammavongsa,Fredda,34,ON,-79.21592152640001,43.8245517624,"5242 Agencies, brokerages and other insurance related activities",Married,53294.0,31976.4
+346,069890f5-77eb-483f-aed6-3c3bcb626a1b,Gruzinsky,Ty,52,ON,-79.5521888034,43.640854134099996,4451 Grocery stores,Married,50516.05,30309.63
+347,bb77ce06-66fe-48cf-bbc3-3002060c9885,Kimbrough,Ginnie,50,ON,-79.548319808,43.679208785,"4161 Electrical, plumbing, heating and air-conditioning equipment and supplies wholesaler-distributors",Married,66840.3,40104.18
+348,042a66df-b8a0-4a8d-ada8-12c33681d964,Reiten,Oakley,34,ON,-79.43023618779999,43.6430454141,4441 Building material and supplies dealers,Married,25930.0,15558.0
+349,25dc250f-15d9-4c78-bfda-0f27079583ec,Sanderfer,Brynn,27,ON,-79.38545471399999,43.664424262,5221 Depository credit intermediation,Single,7068.93,4241.37
+350,22fbf9d4-2677-496e-b4ad-ef18af839f47,Lyken,Phillis,26,ON,-79.37521635569999,43.646832947600004,8121 Personal care services,Single,10075.56,6045.33
+351,aaf24483-5e4a-4955-ae92-f9e324b3916b,Terzian,Bogdan,19,ON,-79.414811472,43.76619665,5221 Depository credit intermediation,Single,8610.69,5166.42
+352,98a0186b-516a-40a3-9682-e01b8cc2aec1,Gadley,Albertina,50,ON,-79.44630149,43.678044421,,Married,0.0,0.0
+353,aaf4ae11-8387-42b9-ac4d-67e054c97080,Michell,Britteny,25,ON,-79.212325142,43.7724635681,,Single,0.0,227.07
+354,73c0b95c-faeb-4553-8905-6477512af4dd,Dunklin,Brayson,56,ON,-79.4975059697,43.7385322634,6220 Hospitals (6221 to 6223),Married,22638.9,13583.34
+355,b8f59329-1e48-4150-9c9f-ea42382ddf44,Bigney,Jeevan,59,ON,-79.25446235300001,43.831247078000004,8141 Private households,Married,39395.55,23637.33
+356,5e8568ed-433a-4b3f-bdb3-cb5e8c9aabf1,Sewade,Keena,50,ON,-79.2854795495,43.6951380105,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,18344.8,11006.88
+357,c8da256b-d3b9-44f9-b491-f2278ea2f225,Lavanway,Clive,51,ON,-79.3693963392,43.785747873199995,5619 Other support services,Married,28235.95,16941.57
+358,0607868a-9c89-490b-bc8c-0eacde0b4050,Croson,Kaya,54,ON,-79.5191518357,43.7551112329,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,24831.95,14899.170000000002
+359,ee208226-5a45-4148-9ec9-1df4a5d8da05,Shelly,Jeffrey,53,ON,-79.52226136670001,43.6545402904,8121 Personal care services,Married,107825.15,64695.09
+360,1abb0bf4-a30d-4755-8af5-d6ff01d44e76,Frisina,Callen,49,ON,-79.2474811669,43.712908607799996,"4145 Pharmaceuticals, toiletries, cosmetics and sundries wholesaler-distributors",Married,94108.3,56464.98
+361,291156e8-b6fc-4b89-a962-bb97c230f0d0,Stivers,Nidia,52,ON,-79.2077984962,43.8182080535,5241 Insurance carriers,Married,33892.8,20335.68
+362,539a3d0c-18a6-4128-b665-707144319034,Epps,Bridgette,13,ON,-79.322147621,43.797500192,,Single,0.0,123.45
+363,3eacb8bc-7dd4-4fe6-b131-27481f1bcd4f,Dicaro,Wendy,34,ON,-79.442634561,43.706606047,,Married,76054.0,45632.4
+364,54e7a59d-3091-4d38-a9bb-b132be086c01,Fronk,Maximina,54,ON,-79.4634667724,43.6868164775,5221 Depository credit intermediation,Married,33094.7,19856.82
+365,91cf0285-76ab-4e51-b274-a712739724b8,Epps,Bay,33,ON,-79.322147621,43.797500192,3118 Bakeries and tortilla manufacturing,Married,33469.0,20081.4
+366,6ab7bdb8-0f62-4494-892b-9990f08952f6,Arnau-Vazzana,Celestina,54,ON,-79.428803795,43.723109283,4481 Clothing stores,Married,71873.85,43124.31
+367,f1135c73-2aa3-4b5b-a344-8659a57132c6,Pasanen,Damion,54,ON,-79.4657266814,43.751079053299996,6230 Nursing and residential care facilities (6231 to 6239),Married,34746.1,20847.66
+368,23346d3f-21fc-4fd7-b15f-a3afe1dfeb3b,Delgrande,Bobby,50,ON,-79.3233880009,43.6725612572,"5412 Accounting, tax preparation, bookkeeping and payroll services",Married,40546.7,24328.02
+369,05652804-d844-4a85-9f63-1ff6df392b43,Dailey,Teddy,63,ON,-79.2797731128,43.679826569700005,7221 Full-service restaurants,Married,33824.75,20294.85
+370,c018fcb2-7885-4e2b-ac52-a0b0f14c33c5,Vazzana,Kian,18,ON,-79.428803795,43.723109283,,Single,0.0,43.17
+371,7390e299-1e83-45d7-80dd-f812be6923aa,Cahela,Cassian,53,ON,-79.5787506011,43.6291344462,5121 Motion picture and video industries,Married,51984.6,31190.76
+372,11a19f5f-6fe2-4297-aa2b-b92743cbea60,Perrow,Cecil,54,ON,-79.573418964,43.6515904044,,Married,0.0,0.0
+373,c17dc8b2-9b31-4b74-807f-1711e97118bf,Lowthert,Kyran,14,ON,-79.4372854635,43.6479058136,,Single,0.0,130.68
+374,4ba8a38e-f955-450c-8388-b02123cb7a86,Karns,Gerard,15,ON,-79.4141265124,43.6881670254,,Single,0.0,125.73
+375,6faaf261-48a3-48f5-921d-64e7c6072399,Fuquay,Jordon,52,ON,-79.4168317037,43.7279454955,5221 Depository credit intermediation,Married,36497.55,21898.53
+376,d7e47137-906d-4fb7-96f2-7e428ec0a154,Shock,Reynalda,14,ON,-79.4071763682,43.780232589200004,,Single,0.0,170.46
+377,d7cdb755-ce92-4938-89c1-0be1e8c5d227,Gottardo,Alex,34,ON,-79.3196130102,43.6743861921,6213 Offices of other health practitioners,Married,72498.0,43498.8
+378,0b224db5-b950-429c-88a3-be5231561062,Freeburn,Kyoko,50,ON,-79.2957909504,43.6880698015,6111 Elementary and secondary schools,Married,14273.8,8564.28
+379,c2ac6b74-5dbe-46c4-bf74-a04600b0c7f0,Cherny,Tena,54,ON,-79.3939331766,43.6473909949,4921 Couriers,Married,33370.7,20022.42
+380,75bc157a-9977-411b-a19a-d52ee34a50ce,Rappleyea,Lennie,50,ON,-79.46546138949999,43.668026275600006,,Married,0.0,0.0
+381,f7b52bf2-48fb-464f-88d8-2498c259d2c8,Saia,Gertrude,52,ON,-79.36035017100001,43.676815926,"5419 Other professional, scientific and technical services",Married,65600.6,39360.36
+382,a97ad3b7-14f8-4ed8-a474-59489428c0ea,Pathak,Shannon,54,ON,-79.3913448594,43.788810185200006,5241 Insurance carriers,Married,45457.2,27274.32
+383,ce3c200b-235f-4a3b-8bf6-40b12845a5f3,Ridgeway,Karl,55,ON,-79.3190606862,43.7512558438,"5419 Other professional, scientific and technical services",Married,26823.75,16094.25
+384,c4eee22c-7915-4420-a5fa-c8137d307a0b,Ranney,Novella,50,ON,-79.1522364799,43.7899242069,6244 Child day-care services,Married,66494.15,39896.49
+385,8dcc9317-e190-4de3-adc6-766dd440cd10,Shiel,Wendie,54,ON,-79.56812821300001,43.651935308,7221 Full-service restaurants,Married,36123.8,21674.28
+386,8132ab56-5c55-487b-9c4d-21a5fc1db3cd,Burgner,Ryland,50,ON,-79.3811923705,43.66483495399999,5221 Depository credit intermediation,Married,23622.15,14173.29
+387,42c89b08-0bfa-4aea-9fd7-67ff4595803a,Bushell,Josiah,41,ON,-79.42523783600001,43.7062532749,6220 Hospitals (6221 to 6223),Married,92560.6,55536.36
+388,69a0c7fa-76d8-4ac0-b09e-56e4338f41d3,Kalichman,Chester,56,ON,-79.52593931,43.768338083,5221 Depository credit intermediation,Married,54740.0,32844.0
+389,e6a8669f-9e90-4c26-9a9f-58dc257a7388,Tombs,Dee,54,ON,-79.4179540639,43.7760228923,,Married,0.0,0.0
+390,b0b5061a-cf14-41ee-9a3a-682839c87a1a,Ferrato,Barbra,54,ON,-79.389496352,43.672723026999996,,Married,0.0,0.0
+391,9e9095aa-d187-4fc7-aa5d-0b0f014b4d29,Robie,Scott,50,ON,-79.3448533882,43.665362780500004,5616 Investigation and security services,Married,34393.05,20635.83
+392,2f246920-6541-48fd-8bd1-e89c7568c1d0,Mellinger,Pippa,52,ON,-79.2481957304,43.7392194686,"5412 Accounting, tax preparation, bookkeeping and payroll services",Married,30351.95,18211.17
+393,0f5223c7-ee43-4158-ad1d-6040f4170a80,Viniard,Karl,54,ON,-79.40879179699999,43.7592348178,4461 Health and personal care stores,Married,36231.9,21739.14
+394,754415af-8e98-4510-ae68-1ff6ed01834c,Cinelli,Prudence,50,ON,-79.3538144471,43.6891811387,"5419 Other professional, scientific and technical services",Married,14631.45,8778.869999999999
+395,74fddb8c-77f8-46fc-88e4-52dec7c6128a,Ailes,Brigid,54,ON,-79.1921682575,43.773720380600004,"2211 Electric power generation, transmission and distribution",Married,26843.3,16105.98
+396,f09eb2cf-97a5-4056-8bcc-2178b48bf924,Steinkellner,Solomon,52,ON,-79.2002689916,43.8183675446,8121 Personal care services,Married,95798.45,57479.06999999999
+397,3bbfee21-eff3-4d1e-ba14-7096fc30feb6,Figueiras,Gwenn,50,ON,-79.490917571,43.750934698,5511 Management of companies and enterprises,Married,27916.25,16749.75
+398,a2d0b5b7-dfcc-4119-beeb-4cd48a36533c,Kules,Leonel,17,ON,-79.42005527229999,43.7399203058,,Single,0.0,193.17
+399,a174dbb8-b509-46c6-bd56-ea74f216ba6c,Mallin,Jericho,51,ON,-79.27072123800001,43.71136709899999,4173 Computer and communications equipment and supplies wholesaler-distributors,Married,35700.6,21420.36
+400,17b219ea-18a1-4d8a-abc9-bc49bd465a44,Marasco,Flor,34,ON,-79.5586505447,43.74991165229999,"5111 Newspaper, periodical, book and director publishers",Married,37371.0,22422.6
+401,06b51d4f-06e6-4ac5-9718-64fda0cce561,Engelkes,Indigo,34,ON,-79.2458041579,43.7643117858,,Married,0.0,0.0
+402,709ebca0-5549-4db9-9584-fb70b72d4061,Zeier,Rayford,24,ON,-79.447735502,43.786076743500004,,Single,0.0,152.7
+403,37e313d7-af5e-43bd-a952-681adaf0f924,Hartgerink,Lazaro,26,ON,-79.4067982599,43.644682826,"9130 Local, municipal and regional public administration (9131 and 9139)",Single,9969.96,5981.97
+404,efa35f97-d0ae-45af-8e7b-57de348e832a,Clevland,Jaden,34,ON,-79.41044295409999,43.7648208317,6111 Elementary and secondary schools,Married,69396.0,41637.60000000001
+405,3cb3865e-80f2-446b-b90a-b9299e582f87,Tirk,Darren,53,ON,-79.46546138949999,43.668026275600006,7221 Full-service restaurants,Married,108312.75,64987.65
+406,be35b82d-bce3-4bb2-bff1-95c472c6b178,Sub,Jovan,52,ON,-79.3050102685,43.7284796451,5231 Securities and commodity contracts intermediation and brokerage,Married,25520.8,15312.48
+407,55b3b490-9cba-4b84-837f-36004df89446,Henschke,Amya,34,ON,-79.4241346223,43.701521624099996,7221 Full-service restaurants,Married,47101.0,28260.6
+408,50b4d4bb-1e58-4752-bbb6-a2c35da5507e,Durdy,Earnest,28,ON,-79.5203775892,43.7049660653,3322 Cutlery and hand tool manufacturing,Married,14272.5,8563.5
+409,e12bdb9d-7938-48b3-bd2c-e60f5fb0d9ba,Premo-Muscato,Yong,18,ON,-79.475087435,43.651817838999996,,Single,0.0,51.96
+410,29e4e0ee-bc73-46b6-94ed-43d1f5e08467,Suniga,Joaquina,18,ON,-79.3033486874,43.7222813494,,Single,0.0,38.55
+411,e796f327-2de9-47ae-b609-6cbf39de5367,Delgrande,Trenton,20,ON,-79.3233880009,43.6725612572,"5242 Agencies, brokerages and other insurance related activities",Single,9523.14,5713.89
+412,86411d45-8358-44a5-b910-eae3261651a3,Wirfs,Ammie,51,ON,-79.4358516608,43.6884054492,6212 Offices of dentists,Married,32241.4,19344.84
+413,88d7ff13-79cf-4301-a791-7945c434692e,Condelario,Wanda,16,ON,-79.3175643582,43.6809336109,,Single,0.0,204.87
+414,19bf062b-8d51-44eb-9f75-be027b2beecf,Mizia,Rima,52,ON,-79.45380711109999,43.6400857417,9120 Provincial and territorial public administration (9121 to 9129),Married,43769.0,26261.4
+415,f1a3e2b0-ddb9-45f0-9275-df0aee831aa9,Pettner,Alexandria,23,ON,-79.595495643,43.7320438445,"2211 Electric power generation, transmission and distribution",Single,8589.24,5153.549999999998
+416,58ea1c1a-189f-423b-a697-328a0016dbb7,Bouie,Kaleb,47,ON,-79.2096621037,43.8077274038,5239 Other financial investment activities,Married,34458.6,20675.16
+417,6337ceba-c0c0-486c-99d6-dca6a9e2be81,Mcdaneld,Etta,33,ON,-79.46815230680001,43.6865206329,7121 Heritage institutions,Married,31513.0,18907.800000000007
+418,3123992f-fd3f-4302-a809-cc4875216657,Tod-Rouse,Klara,34,ON,-79.548159932,43.749436556000006,,Married,0.0,0.0
+419,cc24b381-d66e-40d2-908f-7b61f85e532a,Vandesteeg,Isela,52,ON,-79.3792078222,43.647291063100006,8141 Private households,Married,56445.45,33867.270000000004
+420,18b7acbf-48d8-4243-bb09-ebe3a77997bf,Herran,Crissy,54,ON,-79.3979278347,43.6951982921,5221 Depository credit intermediation,Married,26232.65,15739.59
+421,7fa48403-c612-4fd6-967c-2aa1d6e82255,Guyet,Jerrold,54,ON,-79.2857481222,43.818109703599994,6244 Child day-care services,Married,32248.3,19348.98
+422,871a6aa1-1ea7-449c-b828-42a4652a0f4f,Hasencamp,Levi,15,ON,-79.41282243159999,43.7624163297,,Single,0.0,148.98
+423,090800e6-a444-4be7-b45d-ade6c71b503a,Peevy,Annika,50,ON,-79.5166736036,43.687791275100004,6113 Universities,Married,43333.15,25999.89
+424,cdade588-c1da-4f79-ba47-fd2aa6a92035,Durand,Ron,38,ON,-79.5582545705,43.694870348,4471 Gasoline stations,Married,20956.0,12573.6
+425,81f613c1-2ae1-49e5-b44f-d4f1783d1a0b,Lutterman,Kieron,53,ON,-79.2153791533,43.7797527244,,Married,0.0,0.0
+426,8feec31c-377b-4374-9bfc-28013840cc4f,Bierbaum,Levy,51,ON,-79.5954833,43.755805078,5179 Other telecommunications,Married,40557.05,24334.23
+427,0a4b09b7-fd40-44c2-8701-52b7cbfca894,Jaconski,Jonty,55,ON,-79.5524798204,43.642750283599995,6211 Offices of physicians,Married,47727.3,28636.38
+428,801b0aeb-211e-4320-876f-043248b73087,Tench,Kristopher,53,ON,-79.3242731199,43.7787727745,4841 General freight trucking,Married,11578.2,6946.92
+429,78ea4ded-fb69-4ef8-9312-4691a2e34113,Mccarson,Loren,50,ON,-79.4974338207,43.6305692291,5311 Lessors of real estate,Married,61630.8,36978.48
+430,4f1f00d4-51fe-4582-801d-c4e110d440ae,Tench,Dessie,34,ON,-79.3242731199,43.7787727745,"4483 Jewellery, luggage and leather goods stores",Single,12734.0,7640.4000000000015
+431,e9a5286e-8500-4cdb-9765-6575a6e58aec,Sewade,Bart,26,ON,-79.2854795495,43.6951380105,9112-9119 Other federal services,Single,5954.85,3572.91
+432,bebfb60d-a7bd-4c8e-9940-bcbc06e01025,Alesna,Garry,63,ON,-79.4201010101,43.791978933900005,"4163 Lumber, millwork, hardware and other building supplies wholesaler-distributors",Married,28310.95,16986.57
+433,7d4f4f39-76d3-4dec-9720-52c69ceaf19b,Ghera,Langdon,32,ON,-79.5780494311,43.6275335945,4451 Grocery stores,Single,22490.0,13494.0
+434,31c13b18-7225-43f5-9559-8faef8d65a2c,Brosnahan,Jadon,38,ON,-79.1813695095,43.7555182822,6111 Elementary and secondary schools,Married,38595.0,23157.0
+435,f0407ef4-0025-43dd-80ad-8606663b5ae9,Bierbaum,Malory,50,ON,-79.5954833,43.755805078,5231 Securities and commodity contracts intermediation and brokerage,Married,53734.9,32240.94
+436,8d8fb25b-f6ce-48bb-9587-db866070609a,Karabin,Kay,13,ON,-79.2825436183,43.7140225,,Single,0.0,70.02
+437,4c5b12fc-165c-4bf8-b45b-33f42a1971e6,Zhou,Teressa,17,ON,-79.41275458770001,43.7773646808,,Single,0.0,205.41
+438,216f032f-3462-48da-aead-e2d669c2a3a3,Burgner,Genevieve,50,ON,-79.3811923705,43.66483495399999,5619 Other support services,Married,19223.4,11534.04
+439,3287ff3e-acb4-4281-9478-a8e3137536c2,Brenek,Arlo,28,ON,-79.4201010101,43.791978933900005,,Single,0.0,80.16
+440,4229cd0a-6ef7-4f3b-86ae-651cfefc4297,Timmons,Julian,57,ON,-79.4451703972,43.7898670361,5239 Other financial investment activities,Married,12024.4,7214.64
+441,4f0e831f-fcc4-4ebc-8178-aa04b67b7263,Morreale,Mitchel,57,ON,-79.2862194236,43.757575242200005,4451 Grocery stores,Married,34874.9,20924.94
+442,78ec9cdd-06cb-4741-8cd4-f045dd8e3d44,Bahar,Aqua,51,ON,-79.4433026024,43.643528465200006,"7115 Independent artists, writers and performers",Married,58012.9,34807.74
+443,26bc3430-e9bb-4207-9fd3-a04d1b7bb2e4,Wydler,Amit,36,ON,-79.5554658457,43.6731293805,9112-9119 Other federal services,Single,27792.0,16675.199999999993
+444,fda0fbfa-1536-4a7d-b475-caccb682bd23,Frescas,Lynwood,27,ON,-79.3916934771,43.68168832560001,9120 Provincial and territorial public administration (9121 to 9129),Single,13788.72,8273.22
+445,7e00952b-b5e0-4fee-8d01-4033ebf480e6,Brulotte,Ciaran,57,ON,-79.5452038455,43.765466376800006,4529 Other general merchandise stores,Married,71633.5,42980.10000000001
+446,f843a53f-d016-4c21-aed4-ace83298fbb4,Gardocki,Jolie,51,ON,-79.4265583636,43.6732162092,5415 Computer systems design and related services,Married,37755.65,22653.39
+447,9efb5324-1859-446a-9e65-00a893888657,Hoisl,Pearce,56,ON,-79.20381674149999,43.7638127672,7112 Spectator sports,Married,18824.35,11294.61
+448,1f6ed605-8544-43ea-b10d-e15cba990d1b,Muscato,Cletus,51,ON,-79.475087435,43.651817838999996,"5242 Agencies, brokerages and other insurance related activities",Married,80275.75,48165.45
+449,c1c83e34-5c24-4ce8-9223-01a4ea782a7f,Sub,Egan,22,ON,-79.3050102685,43.7284796451,4931 Warehousing and storage,Single,6914.82,4148.88
+450,740fade1-8c66-4122-b3f2-11941772aff5,Michell,Zain,55,ON,-79.212325142,43.7724635681,5411 Legal services,Married,36919.6,22151.76
+451,0b48c69b-39e6-42bd-9875-b07968fc8301,Crout,Guadalupe,18,ON,-79.3403739685,43.696634429300005,,Single,0.0,190.86
+452,2f5520c0-f50d-4678-8186-fc37a202d169,Yarbrough,Taylor,22,ON,-79.4794093502,43.6612395175,7221 Full-service restaurants,Single,17779.74,10667.85
+453,ccc68cd0-ddaf-49fa-9049-eae55fc5f745,Ebersold,Deon,57,ON,-79.46670558,43.686131278599994,5239 Other financial investment activities,Married,28363.6,17018.16
+454,7c4a7ed3-f013-4c20-b0f0-86b99e2221b8,Hoey,Frazer,30,ON,-79.4648775308,43.73561015560001,6116 Other school and instruction,Single,9296.1,5577.66
+455,ae2f195c-7514-485f-a5ca-b8c3a1461e0e,Yarbrough,Daire,57,ON,-79.4794093502,43.6612395175,,Married,0.0,0.0
+456,19d94c67-2b4e-4204-8917-444ed9a4ec86,Karabin,Talon,39,ON,-79.2825436183,43.7140225,,Married,0.0,0.0
+457,a13b7e06-7a54-4558-b884-d0418719d5ce,Hesson,Jamie,54,ON,-79.6249845469,43.7302696557,,Married,0.0,0.0
+458,666cd9d3-ba18-455e-a021-fd25807e3579,Arrick,Jeston,13,ON,-79.3904574192,43.714371781400004,,Single,0.0,112.62
+459,d690dd0a-d409-4c4d-a82f-5eda370d2779,Bernucho,Troy,38,ON,-79.49593042939999,43.6543909769,6111 Elementary and secondary schools,Married,89726.0,53835.60000000001
+460,052bc6df-c4d8-4adb-a423-4d99a01d2fb5,Rinaldis,Florian,53,ON,-79.3547364725,43.6772212401,,Married,0.0,0.0
+461,2d9b192f-a14b-4e60-9b66-b7841689835f,Carullo,Cheri,50,ON,-79.459398889,43.654209663,,Married,0.0,0.0
+462,16014a4e-3cd9-427e-8413-991bcfdbb3de,Russwurm-Buzard,Matilde,52,ON,-79.5323402028,43.5912936266,5239 Other financial investment activities,Married,29396.3,17637.78
+463,1a29d62f-af5a-403c-9269-ec8f3d1057de,Bennes-Colarossi,Dwain,29,ON,-79.39138658430001,43.6787214208,5616 Investigation and security services,Single,11602.8,6961.68
+464,7e160821-8668-4566-bc51-f2170c2f1fea,Conran,Domenica,54,ON,-79.2717753403,43.710189390699995,4441 Building material and supplies dealers,Married,39929.15,23957.49
+465,cda42508-5bf2-4d4c-ad2d-70b21778acd3,Gardocki,Giles,53,ON,-79.4265583636,43.6732162092,,Married,0.0,0.0
+466,2c537237-1304-4c1c-807a-c7bd2933e70d,Renova-Missildine,Jammie,14,ON,-79.3909945698,43.6782065328,,Single,0.0,173.49
+467,b98f2c8f-46cf-4318-82c9-1dd7e92ae521,Zeier,Vin,57,ON,-79.447735502,43.786076743500004,2383 Building finishing contractors,Married,26750.15,16050.09
+468,42092c49-ee93-4e02-8e7d-f2ae1d397a60,Mattimoe-Sen,Larue,34,ON,-79.31697451720001,43.6716033524,4421 Furniture stores,Married,49207.0,29524.2
+469,cb6ea432-ffec-4c30-91a5-003a099ebc01,Sisemore,Casie,34,ON,-79.3939574313,43.64008873189999,6220 Hospitals (6221 to 6223),Married,37322.0,22393.2
+470,f72c68a9-0bfd-483c-80ac-91c2114b465f,Dragna,Abdul,18,ON,-79.2082347232,43.736663666400005,,Single,0.0,181.29
+471,8889580e-933c-4899-a91a-d44ffd119dbe,Mering,Renda,52,ON,-79.25452406720001,43.7223588071,6220 Hospitals (6221 to 6223),Married,36111.15,21666.69
+472,bf76adac-b7ab-4f2f-bf47-ded01bf38903,Meehan,Marylyn,54,ON,-79.36483396060001,43.6689789023,5121 Motion picture and video industries,Married,109313.25,65587.95000000001
+473,9f280861-54cb-4ff0-b522-608889741fa2,Verwers,Alethia,34,ON,-79.45680534649999,43.6654936822,5191 Other information services,Married,32962.0,19777.2
+474,3214e181-544e-47f3-827d-ed1c27d30e46,Fuquay,Freda,21,ON,-79.4168317037,43.7279454955,"3324 Boiler, tank and shipping container manufacturing",Single,12560.79,7536.48
+475,897c896f-2d5b-4571-a92f-a745b4aa4803,Kanz,Renato,61,ON,-79.2717753403,43.710189390699995,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,33592.95,20155.77
+476,00b22002-6071-486c-8ddc-86f1678e8876,Colarossi,Elian,41,ON,-79.39138658430001,43.6787214208,"7115 Independent artists, writers and performers",Married,43189.3,25913.58
+477,ca5498c6-ef38-43cd-aeb0-c887e97b6fa9,Schad,Arron,52,ON,-79.4455162926,43.780281556300004,,Married,0.0,0.0
+478,a6f78d16-c35f-435d-be1d-b1447549656e,Barg,Wilhelm,33,ON,-79.4225161817,43.6844344288,5221 Depository credit intermediation,Married,42035.0,25221.0
+479,1fd74363-b296-4a23-9822-8576314abbff,Dollyhigh,Flora,52,ON,-79.4808027202,43.71200670020001,3222 Converted paper product manufacturing,Married,48203.4,28922.04
+480,892f759b-ad63-4a8e-807c-88da1fa6854c,Vonruden,Sheena,51,ON,-79.4269388721,43.6505332774,5411 Legal services,Married,35045.1,21027.06
+481,d9fcc8e1-45b4-4eab-8684-a1cdb5bbaa44,Rizvi,Brant,37,ON,-79.39035276,43.67057530100001,,Single,0.0,0.0
+482,22e4cbef-e30b-44cb-8004-1d858de777a4,Bernardy,Eden,20,ON,-79.4768116467,43.6667600589,5241 Insurance carriers,Single,11873.07,7123.83
+483,ec76d05e-2c64-4eb7-9c0b-f0cd53a6bd3e,Morreale,Anissa,52,ON,-79.2862194236,43.757575242200005,6213 Offices of other health practitioners,Married,31722.75,19033.65
+484,8f44dc86-490f-4189-a312-574a0c4ebbb9,Weedman,Rolando,47,ON,-79.4014473387,43.7373987012,3273 Cement and concrete product manufacturing,Married,98451.1,59070.66
+485,cde89349-d823-4d40-91b7-5e2bd50afeee,Elliston,Ryle,33,ON,-79.3914878813,43.7944309975,4452 Specialty food stores,Married,61187.0,36712.2
+486,bf03350d-2cd8-4334-965f-17886b0e6143,Shock,Camie,34,ON,-79.4071763682,43.780232589200004,"7115 Independent artists, writers and performers",Married,35207.0,21124.2
+487,19e3cd03-3cad-43c3-ace8-d2f36984555e,Warzecha,Forest,64,ON,-79.3685775208,43.6494380317,4131 Food wholesaler-distributors,Married,37338.8,22403.28
+488,79448daa-b296-4550-a5ae-6eb04c341e82,Garcon-Buckle,Gabbie,34,ON,-79.2967682527,43.702448319700004,6244 Child day-care services,Married,28787.0,17272.199999999993
+489,6082d3e6-09cd-41e9-a8e9-c197f6a8e55d,Schuttler,Vinnie,53,ON,-79.548319808,43.679208785,4144 Personal goods wholesaler-distributors,Married,75402.05,45241.23
+490,2ee0283b-1c20-4d75-ad6e-10385287d296,Ailes,Edward,55,ON,-79.1921682575,43.773720380600004,7222 Limited-service restaurants,Married,34060.7,20436.42
+491,0dcaf3fd-89b9-4d36-8b24-53ab6f053b4b,Merseal,Donnie,50,ON,-79.36035017100001,43.676815926,4921 Couriers,Married,80925.5,48555.3
+492,7419b8ac-5bae-45e3-a734-fcde1ea4512d,Sittig,Jeffry,17,ON,-79.22226052010001,43.7798837988,,Single,0.0,47.19
+493,eb22659b-c817-4b9b-a80b-b44506462c96,Ebersold,Zenia,54,ON,-79.46670558,43.686131278599994,5231 Securities and commodity contracts intermediation and brokerage,Married,27778.25,16666.949999999993
+494,d5eb5c9c-f0c6-4229-8f5f-0b25287f9dab,Rivelli,Alton,58,ON,-79.5723962262,43.649150752299995,"3345 Navigational, measuring, medical and control instruments manufacturing",Married,102091.25,61254.75
+495,4b0c3267-c32c-4c19-b03c-b194c74e6ad3,Fowlkes,Jene,31,ON,-79.4445909172,43.6474833454,6211 Offices of physicians,Single,24163.0,14497.8
+496,898ae056-2778-4742-aa63-9b3eafd5bad0,Daniely,Tamisha,50,ON,-79.5612924606,43.685844036099994,6213 Offices of other health practitioners,Married,47230.5,28338.300000000007
+497,c437e706-e998-4eca-ac07-de31be502553,Seigler,Huw,13,ON,-79.2957909504,43.6880698015,,Single,0.0,29.910000000000004
+498,b5c9d886-40be-4d18-830d-c3b279013783,Snetsinger,Sherwood,27,ON,-79.4673463748,43.653666528900004,2361 Residential building construction,Single,13811.82,8287.08
+499,87caf4a4-bd40-44e8-a91f-17ba0f6a66a6,Sivick,Breanna,50,ON,-79.56812821300001,43.651935308,5241 Insurance carriers,Married,28127.85,16876.71
+500,4a6b4854-6ad3-4db4-b420-0b44e9d2b681,Bousman-Broxterman,Tomas,25,ON,-79.3959208986,43.67063782140001,6111 Elementary and secondary schools,Single,13657.71,8194.619999999999
+501,53ef372c-7e99-4a3a-abd8-ea1c51532bd0,Terzian,Dido,54,ON,-79.414811472,43.76619665,3113 Sugar and confectionery product manufacturing,Married,30502.6,18301.56
+502,04117b53-cc85-409d-9566-0e92b88a16a9,Allenbaugh,Grey,36,ON,-79.4073156462,43.7143223826,"5416 Management, scientific and technical consulting services",Married,39949.0,23969.4
+503,b4a88306-59b2-4457-bd01-f08878091300,Ritmiller,Joesph,25,ON,-79.4108059393,43.70131855,5414 Specialized design services,Married,50117.1,30070.26
+504,786c0ed4-6649-489b-b413-1784a83daa29,Ferrato,Lee,29,ON,-79.389496352,43.672723026999996,8134 Civic and social organizations,Single,16299.69,9779.82
+505,fa1985d4-2b7f-4db7-b84c-3797af30ba66,Andalora,Armandina,50,ON,-79.2171129347,43.7607487105,,Married,0.0,0.0
+506,a9646a11-4892-4264-822a-9274fb0c365c,Valenzano,Garth,52,ON,-79.44695693199999,43.67835181,5614 Business support services,Married,44776.4,26865.840000000004
+507,02bbe4c6-8322-4634-afcf-3800367578a4,Mastrocola,Primrose,32,ON,-79.4357231738,43.6867075858,3372 Office furniture (including fixtures) manufacturing,Single,32677.0,19606.2
+508,15191125-55bb-41e7-8fe1-cc8f1e0d2349,Doncaster,Kolby,52,ON,-79.3077487725,43.669709029399996,7223 Special food services,Married,48199.95,28919.97
+509,94ec57fc-ea32-4abb-a5cd-cacdb46d2ae4,Peevy,Campbell,19,ON,-79.5166736036,43.687791275100004,,Single,0.0,139.82999999999998
+510,3f0d6047-b163-408e-ac8c-186ac41ae4b0,Cruzan,Aaliyah,54,ON,-79.38545471399999,43.664424262,7223 Special food services,Married,28469.4,17081.64
+511,e8e21df3-3aca-4196-8498-b36f60f61fe7,Guemmer,Ozzy,56,ON,-79.54533020560001,43.655865105100006,3315 Foundries,Married,36166.35,21699.81
+512,9eb52f93-2af3-4cf4-b84c-2aca35849e45,Mering,Takako,27,ON,-79.25452406720001,43.7223588071,7112 Spectator sports,Single,10024.41,6014.64
+513,29e40e23-4bf4-4e5e-bd84-8f48f5798479,Strayhorn,Kori,52,ON,-79.402497263,43.6738630034,9120 Provincial and territorial public administration (9121 to 9129),Married,28845.45,17307.27
+514,100322d9-adaf-4578-87c8-5f08294f6490,Gardocki,Coy,19,ON,-79.4265583636,43.6732162092,6113 Universities,Single,10021.11,6012.66
+515,ca945f99-5731-4e5c-ac54-22a9645d09a5,Shock,Austen,34,ON,-79.4071763682,43.780232589200004,4431 Electronics and appliances stores,Married,33616.0,20169.6
+516,bc31ae19-fb1f-48a9-9a63-a8095d226823,Dauila,Israel,35,ON,-79.3153933822,43.7763125505,"5413 Architectural, engineering and related services",Married,30717.0,18430.2
+517,d9030b2f-49bb-438f-8ecd-7b8c02b439f5,Davidek,Luvenia,54,ON,-79.54806509069999,43.713431754300004,"4511 Sporting goods, hobby and musical instrument stores",Married,35337.2,21202.32
+518,9ac5cd6a-e23d-4791-a193-c3c8fdc579b6,Holsworth,Fermin,53,ON,-79.50861288749998,43.6336175513,7222 Limited-service restaurants,Married,38979.25,23387.550000000007
+519,b681e39a-2f3a-4c1e-8abd-39498d4a7504,Muckleroy,Finbar,53,ON,-79.315641194,43.682090563500005,5619 Other support services,Married,75274.4,45164.64
+520,6ee28bb2-f862-41b4-afd3-6dab54b288e2,Epps,Milan,29,ON,-79.322147621,43.797500192,3231 Printing and related support activities,Married,13279.2,7967.52
+521,b22034e5-e544-4353-ac86-abfe35b9a11f,Wolgamot,Zendaya,27,ON,-79.3109100657,43.7075824621,5311 Lessors of real estate,Single,8299.5,4979.700000000002
+522,66142f16-f66c-43a4-883a-26cb23e97d21,Nicolls,Zona,33,ON,-79.431066,43.661785306000006,8113 Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,Married,34008.0,20404.800000000007
+523,259602c4-1abc-4142-ac92-19b0227b5471,Ridgeway,Barney,28,ON,-79.3190606862,43.7512558438,"4483 Jewellery, luggage and leather goods stores",Single,7181.13,4308.690000000001
+524,67cd1f66-86e5-435d-b4df-5a7a426d7617,Smuin,Marilou,33,ON,-79.36537781,43.78902265600001,"5416 Management, scientific and technical consulting services",Married,33687.0,20212.2
+525,20a0d683-ef0e-4995-8c24-6c58f444fe80,Salemo,Lovie,50,ON,-79.197018857,43.7536973368,,Married,0.0,0.0
+526,07ffe8f3-8f48-4979-8cff-97f6c31fca6c,Sherief,Alyson,51,ON,-79.50861288749998,43.6336175513,3261 Plastic product manufacturing,Married,45320.35,27192.21
+527,ac66f8fd-3ef0-4c8d-ad79-1c18f4990101,Toles,Sally,51,ON,-79.310922498,43.6765316363,,Married,0.0,0.0
+528,1dac44e6-67fa-4b05-a31e-15e90dfa0b64,Mckeever,Gwyneth,34,ON,-79.4894942442,43.7384681264,5313 Activities related to real estate,Married,33596.0,20157.6
+529,ba33b9e0-b60b-4e85-866f-9fd804ed477c,Kvilhaug,Maxwell,39,ON,-79.33001553300001,43.78462811399999,"5416 Management, scientific and technical consulting services",Married,34738.0,20842.800000000007
+530,6c0fe49b-588b-46d7-8cce-429dc67d9324,Skowyra,Erin,36,ON,-79.3863015962,43.666396149200004,6230 Nursing and residential care facilities (6231 to 6239),Single,15914.0,9548.4
+531,2bfdd538-2a47-47a9-9280-2a4dcef88630,Straughter,Rashid,39,ON,-79.39832033479999,43.6548556808,5617 Services to buildings and dwellings,Married,38400.0,23040.0
+532,e52f6347-38ba-40d2-b30f-1dd4e3725383,Sundholm,Aqua,34,ON,-79.2833792396,43.6748625153,6220 Hospitals (6221 to 6223),Married,78868.0,47320.8
+533,a1c309ea-0c93-4c91-8d55-69f7bc65675a,Fowlkes,Murray,59,ON,-79.4445909172,43.6474833454,5221 Depository credit intermediation,Married,30481.9,18289.14
+534,5b54ca5f-08b6-4199-be9e-4f47e6436366,Chim-Weedman,Melonie,32,ON,-79.4014473387,43.7373987012,4461 Health and personal care stores,Divorced,80230.0,48138.0
+535,adf2b05c-bafc-494f-b04a-5ad533cc270a,Spease,Lincoln,21,ON,-79.4451703972,43.7898670361,"5242 Agencies, brokerages and other insurance related activities",Single,3993.66,2396.19
+536,62dfb5f2-eafd-4234-910d-7f62bdee5944,Smetana,Zeb,30,ON,-79.5457811734,43.6606198495,"2211 Electric power generation, transmission and distribution",Married,19202.7,11521.62
+537,2ce56587-19d3-41e3-b297-f3f674911bfc,Rewis-Lowthert,Emilie,34,ON,-79.4372854635,43.6479058136,9112-9119 Other federal services,Married,34390.0,20634.0
+538,d6ef9841-70c2-4a97-823f-3c925701fba6,Pinn,Loren,56,ON,-79.179945411,43.791098383999994,5121 Motion picture and video industries,Married,44010.5,26406.300000000007
+539,dff63b63-1e7b-4aa1-b9ee-7c8755ad972b,Glaza,Maddy,50,ON,-79.5521888034,43.640854134099996,,Married,0.0,0.0
+540,34f99368-ed42-4f2c-b125-e4c1c80eff4d,Kvilhaug,Ashvini,33,ON,-79.33001553300001,43.78462811399999,9120 Provincial and territorial public administration (9121 to 9129),Married,40086.0,24051.6
+541,54be0ff4-3674-4949-9746-db74b5aa7275,Fowlkes,Etsuko,29,ON,-79.4445909172,43.6474833454,"5418 Advertising, public relations, and related services",Single,6609.24,3965.55
+542,3c0c5ec9-fd17-4f9e-bfef-e70dc760f78d,Karns,Umar,31,ON,-79.4141265124,43.6881670254,4541 Electronic shopping and mail-order houses,Married,82956.0,49773.60000000001
+543,0b312015-d665-40eb-b579-51870e27815e,Wolgamot,Yolande,54,ON,-79.3109100657,43.7075824621,5221 Depository credit intermediation,Married,31102.9,18661.74
+544,a140bfde-4b49-471e-ab00-70137316f2e7,Kotow,Jonquil,18,ON,-79.375208558,43.66956979,,Single,0.0,158.01
+545,b90666e1-67be-42b2-a054-0ecbd35d4f65,Higley,Helaine,50,ON,-79.4963054926,43.6738385778,7221 Full-service restaurants,Married,25273.55,15164.13
+546,7d05e435-26c7-4711-92e3-05758a095c9b,Raring,Brevyn,14,ON,-79.4839845521,43.704557998,,Single,0.0,177.57
+547,18c6e9e8-2ded-4aa2-bef7-79ef80498a16,Moncure,Lindsey,26,ON,-79.1335642556,43.7822380566,"5418 Advertising, public relations, and related services",Single,12403.38,7442.039999999999
+548,5c7ad276-ac6c-4e3e-8828-e6756d0d85ea,Turnage-Chacko,Kathy,34,ON,-79.2082973259,43.805404306599996,3115 Dairy product manufacturing,Married,32891.0,19734.6
+549,3af1d3d1-455a-4b8c-a105-c91d83d092db,Renova-Missildine,Vinnie,50,ON,-79.3909945698,43.6782065328,6113 Universities,Married,53216.25,31929.75
+550,9d319259-5774-455a-83ed-d6df97a5a51f,Nager,Lanette,52,ON,-79.4016253496,43.7290818312,4481 Clothing stores,Married,84516.95,50710.17
+551,3cf752dc-2131-46f7-93ab-e21f4d5ea61e,Waltz,Olene,34,ON,-79.313810422,43.670689385,5231 Securities and commodity contracts intermediation and brokerage,Married,91402.0,54841.2
+552,fa2ceb07-611b-4692-b813-2d6409f35085,Yarbrough,Sutton,54,ON,-79.4794093502,43.6612395175,4189 Other miscellaneous wholesaler-distributors,Married,57333.25,34399.95
+553,23c45380-d6d9-4102-9dcf-35c158eb35c7,Crout,Rajesh,55,ON,-79.3403739685,43.696634429300005,9112-9119 Other federal services,Married,69464.6,41678.76
+554,8b5e8e2e-54ff-4cb3-9757-86dbf31adedd,Reiten,Aster,34,ON,-79.43023618779999,43.6430454141,"5182 Data processing, hosting, and related services",Married,30548.0,18328.800000000007
+555,962acbdf-f985-4e38-a34f-ae234fd95276,Driggins,Kiera,34,ON,-79.180843494,43.760391735,"4179 Other machinery, equipment and supplies wholesaler-distributors",Married,46670.0,28002.0
+556,6d2cef90-b961-4686-bbaf-7271706b75ee,Monda,Anushka,52,ON,-79.4164897842,43.672880544399995,6111 Elementary and secondary schools,Married,79428.2,47656.92
+557,3a8daaa2-0138-42d9-beed-28593957fbc3,Broxterman,Thaddeus,52,ON,-79.3959208986,43.67063782140001,5191 Other information services,Married,44973.05,26983.83
+558,9b7c6a99-18ed-4c80-a63e-8ca4327930ef,Ghera,Skyler,53,ON,-79.5780494311,43.6275335945,4461 Health and personal care stores,Married,28750.0,17250.0
+559,d310bf1f-ac72-4c46-b09b-54dc332446e4,Savi,Frazer,35,ON,-79.1786001471,43.803945734799996,"5416 Management, scientific and technical consulting services",Married,35953.0,21571.800000000007
+560,2ad39655-dc27-4a22-a535-17fe12626ea8,Peevy,Rosana,14,ON,-79.5166736036,43.687791275100004,,Single,0.0,159.36
+561,a1ba6648-ae8c-4cf4-83e9-e0d1b99fcf6e,Brenek,Ashlie,50,ON,-79.4201010101,43.791978933900005,4451 Grocery stores,Married,29486.0,17691.6
+562,760ab5fc-f804-481f-9d4c-a2365d94f0a5,Shae,Antoinette,54,ON,-79.37521635569999,43.646832947600004,5415 Computer systems design and related services,Married,33460.4,20076.24
+563,3ecee6f3-f4fa-43f2-828b-b862f1b1a539,Stritzke,Flo,50,ON,-79.270595187,43.711075654,5121 Motion picture and video industries,Married,40797.4,24478.44
+564,d2a761ea-686e-4386-b99e-b9569c681b7e,Perrow,Kensey,54,ON,-79.573418964,43.6515904044,3372 Office furniture (including fixtures) manufacturing,Married,23300.15,13980.09
+565,fd904b19-6a94-48ed-ac42-0dd78c2f4d56,Whiteis,Jessika,50,ON,-79.5925793862,43.7377972834,4481 Clothing stores,Married,50994.45,30596.67
+566,7bee1e7d-1b2b-406d-80ca-7667970ae03b,Ruffins,Aerona,50,ON,-79.4199968407,43.77903443140001,5171 Wired telecommunications carriers,Married,39123.0,23473.800000000007
+567,dcc47852-4dd2-4971-90d6-11612a861230,Blaxland,Cesar,38,ON,-79.5181434205,43.739202145,6220 Hospitals (6221 to 6223),Married,52745.0,31647.0
+568,e55dc77a-c513-493b-b711-a05f0feb84ba,Manlove,Sophia,33,ON,-79.44083783,43.728746286,5415 Computer systems design and related services,Married,31614.0,18968.4
+569,05f3d453-246b-4084-910b-40c8b8f4081e,Chang,Hayden,56,ON,-79.5016441929,43.7374999747,4421 Furniture stores,Married,40062.55,24037.53
+570,38de96d0-1e56-48b8-9c31-ed05c2f7a824,Kamal,Alistair,41,ON,-79.2808548794,43.6845422854,5221 Depository credit intermediation,Married,62021.3,37212.78
+571,08c364e8-8a68-478a-98ef-840eeab542a3,Chim-Weedman,Richelle,51,ON,-79.4014473387,43.7373987012,"7114 Agents and managers for artists, athletes, entertainers and other public figures",Married,95529.35,57317.61
+572,d1a16885-1159-41f1-9beb-b4cced4c200e,Martha,Jaquelyn,34,ON,-79.4724449481,43.641442247600004,5414 Specialized design services,Married,21061.0,12636.6
+573,094b6dac-de73-4f7e-8e38-69126fef6815,Leacock,Mckayla,51,ON,-79.3188563782,43.674804384,3261 Plastic product manufacturing,Married,64368.95,38621.37
+574,a4d7a312-2a0c-4d16-ae6a-e212cc405020,Parmeter-Turnbull,Robbin,51,ON,-79.55991291,43.643144477,6220 Hospitals (6221 to 6223),Married,48852.0,29311.2
+575,70bba921-8d15-4ac9-8c50-66ba0d2ab64e,Legaspi,Xavier,51,ON,-79.3009154421,43.751353926499995,"5416 Management, scientific and technical consulting services",Married,44103.65,26462.19
+576,e708d89f-21c7-4f1a-af1b-92556b10b7e7,Valotta,Delilah,54,ON,-79.408554313,43.766636535,6113 Universities,Married,36642.45,21985.47
+577,208cf2ea-08a1-4478-a864-2766ee0c5388,Tilden,Gilbert,23,ON,-79.3846568792,43.669558393,5322 Consumer goods rental,Single,4478.76,2687.25
+578,7a0346be-37d3-47b2-94e2-b5bc2002e593,Buskirk,Silas,56,ON,-79.4634667724,43.6868164775,9120 Provincial and territorial public administration (9121 to 9129),Married,24350.1,14610.06
+579,020207ec-3159-49ea-ac7b-1cf61398aa7c,Sarni,Finbar,73,ON,-79.378228777,43.6673477011,Retired,Married,33000.1,19800.06
+580,07e23455-f811-4d56-9338-faeca69be4fe,Sposito,Manuel,48,ON,-79.41112356800001,43.771683691999996,2361 Residential building construction,Married,30516.2,18309.72
+581,f88712cd-9804-44b3-8d9d-e899ba534bc1,Warncke,Morgan,70,ON,-79.56812821300001,43.651935308,5411 Legal services,Married,38800.85,23280.51
+582,40f5dcb6-3f0d-4818-8fb7-641e798fabac,Pondexter,Glenn,14,ON,-79.256770973,43.7292557151,,Single,0.0,130.59
+583,ca98fedb-eec5-466f-9637-ae31b0480d7c,Mick,Dick,56,ON,-79.3802518505,43.7012910092,5617 Services to buildings and dwellings,Married,68462.95,41077.77
+584,f4417952-36e6-41c5-94b5-14f932548b4f,Kiah,Klay,58,ON,-79.4997607949,43.7069298016,4521 Department stores,Married,19508.6,11705.16
+585,ee83f110-a6f8-4dfb-8865-f484c86cf167,Milbrandt,Leela,33,ON,-79.48286093600001,43.720498199,5322 Consumer goods rental,Married,34286.0,20571.6
+586,fee5a2d5-2c72-4067-8552-caec1a175a58,Flink,Godfrey,28,ON,-79.323157635,43.69619885979999,"7115 Independent artists, writers and performers",Single,21530.19,12918.12
+587,82daf14d-14b9-48fd-8ada-4c1b11f99bdc,Getman,Isaiah,53,ON,-79.2171129347,43.7607487105,5311 Lessors of real estate,Married,38773.4,23264.04
+588,602d747e-0807-48ed-9b75-597f823907e4,Wirfs,Broden,26,ON,-79.4358516608,43.6884054492,"5111 Newspaper, periodical, book and director publishers",Single,10757.67,6454.59
+589,adf07572-726a-46b8-8244-f8f23cf9eebd,Riggi,Barron,55,ON,-79.4808027202,43.71200670020001,5171 Wired telecommunications carriers,Married,38791.8,23275.08
+590,ec803beb-ced3-4906-8de9-206a1838b69c,Dailey,Annelle,54,ON,-79.2797731128,43.679826569700005,5221 Depository credit intermediation,Married,42730.55,25638.33
+591,e3a432c1-95c5-49b3-b2d0-a15701eff8ed,Wiener-Allenbaugh,Randell,15,ON,-79.4073156462,43.7143223826,,Single,0.0,199.26
+592,45a3a79a-e39c-4310-8ad2-7a21ac3c5e53,Honea,Armand,35,ON,-79.4399661419,43.688278223000005,4173 Computer and communications equipment and supplies wholesaler-distributors,Married,40683.0,24409.800000000007
+593,ff3a4070-3925-4588-8ab1-2b8b8d6ff5b5,Dragna,Alastair,59,ON,-79.2082347232,43.736663666400005,3333 Commercial and service industry machinery manufacturing,Married,36389.45,21833.67
+594,4ea68741-1521-4dcf-b851-cc086b4731f6,Frescas,Vikki,20,ON,-79.3916934771,43.68168832560001,5615 Travel arrangement and reservation services,Single,13225.08,7935.059999999998
+595,f88c7b7c-4698-4a37-bfa5-2bf711abcf62,Kamal,Katelin,34,ON,-79.2808548794,43.6845422854,8132 Grant-making and giving services,Married,54139.0,32483.4
+596,d52e49cd-6352-437f-a32f-ec378b86ec92,Wikins,Dee,26,ON,-79.4054989644,43.670088649499995,5223 Activities related to credit intermediation,Single,9897.03,5938.230000000001
+597,9cb0b1bc-6929-4dd0-b11b-d13e884093f1,Muckleroy,Azariah,50,ON,-79.315641194,43.682090563500005,"5413 Architectural, engineering and related services",Married,72151.0,43290.60000000001
+598,234f5a0a-942c-4631-9ea2-b746220d74f9,Galva-Fuquay,Rhea,50,ON,-79.4168317037,43.7279454955,4173 Computer and communications equipment and supplies wholesaler-distributors,Married,40816.95,24490.17
+599,43f0c8cd-1d36-4bd4-ac47-7476c1505134,Brunckhorst,Tito,37,ON,-79.2833792396,43.6748625153,"4511 Sporting goods, hobby and musical instrument stores",Married,73872.0,44323.2
+600,7b453695-4182-4e59-b9fe-2fb1de7e7817,Portales,Lashanda,34,ON,-79.32540301819999,43.761593976099995,8111 Automotive repair and maintenance,Married,28109.0,16865.4
+601,d86f9f65-b5d9-43c8-889b-e7d6820301b0,Spease,Marilu,54,ON,-79.4451703972,43.7898670361,7222 Limited-service restaurants,Married,12273.95,7364.37
+602,bf96fdd2-fcff-4dec-9d53-28f6ecbc915e,Khilling,Theressa,51,ON,-79.380039919,43.761452665600004,,Married,0.0,0.0
+603,a29007d6-8c09-42aa-aa27-55d3aa17e122,Wydler,Arthur,52,ON,-79.5554658457,43.6731293805,6220 Hospitals (6221 to 6223),Married,36014.55,21608.73
+604,1559fe12-6f43-4934-b109-662b1d1e997c,Raring,Colten,33,ON,-79.4839845521,43.704557998,6220 Hospitals (6221 to 6223),Married,28264.0,16958.4
+605,afdb07ce-3a46-435d-b2eb-23fd44678e4e,Steuart,Maribeth,51,ON,-79.521855084,43.746245788,6220 Hospitals (6221 to 6223),Married,28318.75,16991.25
+606,7f790ec5-d6ef-4ce6-8bdd-743ddd34fdf7,Fogle,Paolo,59,ON,-79.5360997656,43.720426325,5312 Offices of real estate agents and brokers,Married,36057.1,21634.26
+607,8ce7686a-8a0f-4567-ae8b-ecfa9e4fe6ab,Suniga,Kieran,60,ON,-79.3033486874,43.7222813494,5221 Depository credit intermediation,Married,37649.45,22589.67
+608,747e2044-2230-4960-813c-ec7c4f4900e3,Poniatoski,Lynwood,53,ON,-79.32662220489999,43.7785028646,7111 Performing arts companies,Married,48095.3,28857.18
+609,85289b93-89ea-43c2-81c0-b85e6834f1d4,Sarni,Kaleigh,54,ON,-79.378228777,43.6673477011,7139 Other amusement and recreation industries,Married,51763.8,31058.28
+610,5d496bd8-8f7c-4744-bdd4-6fc5dc766889,Holsworth,Ruairi,20,ON,-79.50861288749998,43.6336175513,5171 Wired telecommunications carriers,Single,10997.25,6598.3499999999985
+611,ae70139d-8525-47e5-93a0-6735a3055732,Matzek,Felton,56,ON,-79.43042978310001,43.7246901673,8141 Private households,Married,90851.15,54510.69
+612,0bb0a278-bf9c-42f5-9348-1bc6c9e55309,Mckeever,Frankie,16,ON,-79.4894942442,43.7384681264,,Single,0.0,34.2
+613,ffd76956-1d96-4282-8536-c8517f2e8969,Bacher,Emelda,54,ON,-79.21526027729999,43.7961706128,,Married,0.0,0.0
+614,936de025-25d9-4604-8cc9-9b0584645b60,Knaak,Kamil,61,ON,-79.4888314321,43.6645292492,,Married,0.0,0.0
+615,d051475b-f6d1-4224-913c-e92ebfdfd00e,Dauila,Nona,34,ON,-79.3153933822,43.7763125505,5239 Other financial investment activities,Married,34020.0,20412.0
+616,6db03719-e9a6-4f2b-b6dc-2930b958f482,Petrson,Herbert,57,ON,-79.2638428764,43.750636326000006,5411 Legal services,Married,18685.2,11211.12
+617,40b7c120-cf77-4953-a053-9bb08cc911b6,Holsworth,Shanice,21,ON,-79.50861288749998,43.6336175513,5311 Lessors of real estate,Single,10354.74,6212.8499999999985
+618,b7c0881d-4c21-460f-a1e4-4923422b9649,Vandal,Kyle,17,ON,-79.4766756216,43.6999973614,,Single,0.0,87.81
+619,5d70540e-1738-4157-a5b2-441a722ea5e6,Kotow,Avery,36,ON,-79.375208558,43.66956979,8134 Civic and social organizations,Married,31174.0,18704.4
+620,aa04cf4c-a310-4910-9fe0-7e67a6ab3c9c,Foard,Lyle,71,ON,-79.1550296933,43.7882583145,Retired,Married,55710.9,33426.54
+621,3ed64c7a-c4e0-4c5e-bf0e-ca4e8dcb7a6c,Barg,Lettie,34,ON,-79.4225161817,43.6844344288,"3256 Soap, cleaning compound and toilet preparation manufacturing",Married,43866.0,26319.6
+622,488274a3-ed15-468a-ac42-49dd63bbce05,Konrad,Pearce,40,ON,-79.3265949662,43.6723514598,"5413 Architectural, engineering and related services",Married,51014.7,30608.82
+623,f2ee17a5-7411-4803-9017-985ea80b31e9,Batlle,Ephraim,55,ON,-79.4289537195,43.6364200969,4521 Department stores,Married,31765.3,19059.18
+624,0cc24700-b733-420a-a6be-f4a55c1f5582,Csizmadia,Idris,52,ON,-79.464807315,43.655223678999995,"3221 Pulp, paper and paperboard mills",Married,40762.9,24457.74
+625,9401bd5a-9717-4e50-aca1-86b15ce7c336,Hoey,Brax,54,ON,-79.4648775308,43.73561015560001,"5419 Other professional, scientific and technical services",Married,35202.65,21121.59
+626,0439d5dc-d4b8-4451-8cc3-d3914456fbc5,Mizia,Brisa,29,ON,-79.45380711109999,43.6400857417,"4512 Book, periodical and musical stores",Single,11846.34,7107.81
+627,18b0a8b3-2298-4e08-bf7e-e7eab582bb23,Vondracek-Debes,Veronika,50,ON,-79.4287753813,43.661615786599995,7111 Performing arts companies,Married,96062.95,57637.77
+628,32752ba8-0258-4c70-8fde-fd64600d0d08,Sjaarda,Marion,15,ON,-79.4808027202,43.71200670020001,,Single,0.0,216.69
+629,53721efe-925f-4c7e-999a-b89fa5aab03d,Mcdaneld,Reeve,42,ON,-79.46815230680001,43.6865206329,5311 Lessors of real estate,Married,33038.5,19823.1
+630,a3bfc363-6a33-4c54-9663-d630707e03d7,Gormally,Brent,50,ON,-79.45950833170001,43.668127382799995,4431 Electronics and appliances stores,Married,39748.6,23849.16
+631,13a76f25-5267-4d03-b057-b82f28edef7d,Mastrocola,Darcy,54,ON,-79.4357231738,43.6867075858,5313 Activities related to real estate,Married,33343.1,20005.86
+632,c239059c-90d1-4769-9eb2-01c694a504f2,Brotherton,Homer,57,ON,-79.270595187,43.711075654,8133 Social advocacy organizations,Married,45075.4,27045.24
+633,7411dd6c-b59f-4cc0-b984-a7b76d3ceea3,Vandal,Lonna,34,ON,-79.4766756216,43.6999973614,2362 Non-residential building construction,Married,25560.0,15336.0
+634,6796ce46-76d6-46fd-8a2b-47192a89641d,Quintana,Lesley,57,ON,-79.5059062213,43.595191382799996,7222 Limited-service restaurants,Married,50772.5,30463.5
+635,0f87245a-9cf0-484f-9575-480090b36cf3,Barg,Van,14,ON,-79.4225161817,43.6844344288,,Single,0.0,116.88
+636,bf1e6e54-4061-4987-aafb-a0bccef54699,Morphis,Andrea,61,ON,-79.3547403477,43.78843313189999,6230 Nursing and residential care facilities (6231 to 6239),Married,35365.65,21219.39
+637,cc5f2c94-604b-48dc-bca5-0c18a4e5f47a,Tooker,Alannah,54,ON,-79.1878549542,43.7707432757,"5242 Agencies, brokerages and other insurance related activities",Married,35176.2,21105.72
+638,88b13c03-e354-44ab-aa43-f40c93722056,Joulwan,Joaquin,56,ON,-79.5784886969,43.644172175600005,4851 Urban transit systems,Married,155597.3,93358.38
+639,b9681d69-b797-43a7-b3cf-650eee5e43fa,Maynor,Gabriel,45,ON,-79.463606215,43.687335607600005,5239 Other financial investment activities,Married,22767.8,13660.68
+640,162e9aab-3b59-4639-98ff-b9abb8ed480c,Weeber,Decker,55,ON,-79.3376971094,43.6828421234,9112-9119 Other federal services,Married,58646.55,35187.93
+641,d7b3acff-7706-4976-aa4d-ef300db52414,Higley,Dedra,18,ON,-79.4963054926,43.6738385778,,Single,0.0,156.89999999999995
+642,adee9c05-0f9d-497c-8e02-d57ebe84193c,Maynor,Eliot,23,ON,-79.463606215,43.687335607600005,4841 General freight trucking,Single,7389.69,4433.82
+643,42f9bf4f-caa1-4b96-a7e7-3200ed26968f,Choudhury,Freddy,37,ON,-79.23353595100001,43.7324721053,5231 Securities and commodity contracts intermediation and brokerage,Married,41619.0,24971.4
+644,7a6c9da0-d7c3-4975-af7b-6863d1c49e2f,Cappola,Enid,51,ON,-79.2522119849,43.7902164416,3342 Communications equipment manufacturing,Married,34803.6,20882.16
+645,81706491-2a9a-4be5-b5fe-d65044905914,Christina,Kade,33,ON,-79.3871807987,43.649489268800004,4461 Health and personal care stores,Married,45832.0,27499.2
+646,557777fb-45b6-4aa6-a2e2-8775bf3bd310,Treible,Kieron,53,ON,-79.427643598,43.67249413,"5413 Architectural, engineering and related services",Married,24714.65,14828.79
+647,e1a76585-e7a8-4293-8b17-bbe7d2b29ec0,Rendel,Jodi,50,ON,-79.3214730582,43.6650425301,5615 Travel arrangement and reservation services,Married,30963.75,18578.25
+648,b059e817-f700-4706-b533-6bac612b81da,Moncure,Lucius,28,ON,-79.1335642556,43.7822380566,6111 Elementary and secondary schools,Married,8894.49,5336.700000000002
+649,be840bc4-3323-4504-b2ee-e01ffb2c1249,Higley,Fenton,52,ON,-79.4963054926,43.6738385778,9120 Provincial and territorial public administration (9121 to 9129),Married,21569.4,12941.64
+650,a34ab270-0e43-4017-b69d-478f32d11034,Buzard,Tad,36,ON,-79.5323402028,43.5912936266,7132 Gambling industries,Single,19468.0,11680.8
+651,09782b0b-4e09-4371-aa8e-989fa3044ab3,Hurne,Bryon,34,ON,-79.383308201,43.64141084600001,9120 Provincial and territorial public administration (9121 to 9129),Married,42579.0,25547.4
+652,07951ef5-bd39-442f-83b3-f301cea9943f,Gokey,Claire,54,ON,-79.3077487725,43.669709029399996,"5419 Other professional, scientific and technical services",Married,40599.6,24359.76
+653,4df07164-0c9c-4d8b-99fc-3310d47d793c,Habicht,Ianthe,50,ON,-79.20770646140001,43.8457915565,5221 Depository credit intermediation,Married,45296.2,27177.72
+654,6357a3bb-92b7-4d41-9ee2-5bd74f7b69ed,Karabin,Rafaela,34,ON,-79.2825436183,43.7140225,9111 Defence services,Married,68665.0,41199.0
+655,e583fda0-254a-4377-a85c-33fc344839cf,Rasband,Tereasa,50,ON,-79.427643598,43.67249413,7111 Performing arts companies,Married,26500.6,15900.36
+656,d4db3e1a-c46a-4cc6-b433-79eb3b74b57e,Verwers,Wilson,42,ON,-79.45680534649999,43.6654936822,6220 Hospitals (6221 to 6223),Married,38999.4,23399.64
+657,ad4bb6ba-c608-4102-a6ea-1d968b937d6d,Ensey,Louella,52,ON,-79.3744550751,43.8064165646,7221 Full-service restaurants,Married,46631.35,27978.81
+658,eb1372a2-c5eb-4f31-b59f-180aadce4d23,Petrson,Kathryn,50,ON,-79.2638428764,43.750636326000006,5239 Other financial investment activities,Married,19498.25,11698.95
+659,54c5cdf7-e570-4bc2-af16-f1beb8fba390,Swartzwelder,Dacia,51,ON,-79.4418260766,43.7063388328,5411 Legal services,Married,51874.2,31124.52
+660,f554cf0f-1906-46c3-977d-a54f2429f6ce,Deserio,Lake,39,ON,-79.313810422,43.670689385,,Married,0.0,0.0
+661,77d47c52-6189-4215-999d-1617873d2a19,Cinelli,Kaycee,27,ON,-79.3538144471,43.6891811387,"5416 Management, scientific and technical consulting services",Single,4607.46,2764.4700000000007
+662,26a190a8-3f55-4734-935c-3da55e82d094,Groom,Lolita,54,ON,-79.3321638282,43.793552767200005,6241 Individual and family services,Married,37067.95,22240.77
+663,b5c06556-139c-4d53-bd8b-f45ec29bebf1,Dicaro,Mike,34,ON,-79.442634561,43.706606047,,Married,0.0,0.0
+664,032fe744-76b9-449e-b0cf-3b6b040d782f,Konrad,Lilac,33,ON,-79.3265949662,43.6723514598,"6242 Community food and housing, and emergency and other relief services",Married,42166.0,25299.6
+665,679d20c2-27ff-4042-afca-2ffa3361b300,Desautels,Felton,16,ON,-79.53074290079999,43.596846524700005,,Single,0.0,153.32999999999996
+666,45f4cc87-47ec-4926-a1b9-10e136de7680,Larreta,Umar,34,ON,-79.443829191,43.655979748,6214 Out-patients care centres,Married,35872.0,21523.2
+667,18134cc2-9cad-4557-871e-85d38a597864,Toomsen,Wilford,54,ON,-79.4016253496,43.7290818312,"5418 Advertising, public relations, and related services",Married,73057.2,43834.32
+668,15d1fedf-e3dc-4f5e-8468-c2c367a4f0e0,Maynor,Carleen,51,ON,-79.463606215,43.687335607600005,5615 Travel arrangement and reservation services,Married,23113.85,13868.31
+669,58c5e9bc-7dd7-40c8-949c-1624509910ba,Mahrer,Marshall,43,ON,-79.57670261199999,43.647764637,"5242 Agencies, brokerages and other insurance related activities",Married,40153.3,24091.98
+670,2bc32d37-8ce2-4deb-9b32-d7952f8f9efa,Bogacki,Axton,35,ON,-79.2610072808,43.6927513087,4411 Automobile dealers,Married,39570.0,23742.0
+671,393b4545-9374-4ce9-afb9-b93dbbde7d29,Cockburn,August,24,ON,-79.3986155688,43.684945027,6214 Out-patients care centres,Single,13726.02,8235.599999999999
+672,34f5d6bf-725b-4ce3-91c9-807b441ce728,Leppanen,Un,50,ON,-79.5524798204,43.642750283599995,8141 Private households,Married,43593.05,26155.83
+673,44e10aff-de64-49cf-964b-add03391e1f1,Wirfs,Ibrahim,71,ON,-79.4358516608,43.6884054492,Retired,Married,23375.1,14025.06
+674,32310ca7-fe0d-4305-99ae-205149084f5e,Vizarro,Hollie,50,ON,-79.2471961942,43.769780411999996,3121 Beverage manufacturing,Married,47618.05,28570.83
+675,f50a73a9-43c5-4c6c-95e0-fa9031458a71,Leacock,Wilhelm,52,ON,-79.3188563782,43.674804384,8141 Private households,Married,66330.85,39798.51
+676,1f365740-fe95-4a12-9b38-7bc7237a7303,Zeldin,Jeane,20,ON,-79.56812821300001,43.651935308,,Single,0.0,94.8
+677,9b56e058-7683-4189-a507-d13fc805ec40,Mick,Dom,19,ON,-79.3802518505,43.7012910092,4851 Urban transit systems,Single,19837.95,11902.77
+678,e4bb23d8-31a3-42eb-9b21-45546da85273,Loso,Delbert,33,ON,-79.374873794,43.65684641399999,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,36593.0,21955.800000000007
+679,9de19116-3f83-4460-b49c-29c122c2818d,Kalka,Carmel,54,ON,-79.371426797,43.6734731086,,Married,0.0,0.0
+680,a52d5bd7-f236-4fd5-94b0-8470dc5a1099,Vlchek,Ruben,21,ON,-79.4997607949,43.7069298016,9120 Provincial and territorial public administration (9121 to 9129),Single,5658.18,3394.92
+681,65661130-9687-4034-80f1-5238d6004573,Saysongkham,Susie,34,ON,-79.2763631588,43.8208300889,"2373 Highway, street and bridge construction",Married,25475.0,15285.0
+682,f3faac98-f2be-4f54-98a9-a999f663dd92,Heltsley,Tereasa,34,ON,-79.3408724654,43.6962513703,4851 Urban transit systems,Married,51404.0,30842.4
+683,cf9f6252-b2de-451a-ac82-8a5e42ef46f3,Pondexter,Shane,73,ON,-79.256770973,43.7292557151,Retired,Married,28849.1,17309.46
+684,15c9d9fd-dff6-4f71-8988-b4959d48b678,Valenzano,Trula,52,ON,-79.44695693199999,43.67835181,"5418 Advertising, public relations, and related services",Married,38073.05,22843.83
+685,a3bd3b39-7df7-49a9-9dbb-2188cc927798,Kotow,Chieko,34,ON,-79.375208558,43.66956979,,Married,0.0,0.0
+686,de85425a-0090-4eb4-9e99-27a5f366a44b,Napihaa,Soledad,52,ON,-79.3863015962,43.666396149200004,5239 Other financial investment activities,Married,14652.15,8791.289999999999
+687,a8e31337-6404-4be6-9cfb-ba6aaeb371be,Acre,Adnan,32,ON,-79.408554313,43.766636535,3353 Electrical equipment manufacturing,Single,29737.0,17842.199999999993
+688,04faf555-548c-4286-826d-1f43a858387a,Desautels,Dania,51,ON,-79.53074290079999,43.596846524700005,5415 Computer systems design and related services,Married,102958.35,61775.01
+689,dbc82a39-7568-41b0-8bdd-39d13e9d29d6,Zhou,Rickey,71,ON,-79.41275458770001,43.7773646808,Retired,Married,22339.8,13403.88
+690,fc2c5a92-9026-42a9-8106-04d7e886ee10,Gallishaw,Emory,54,ON,-79.3428221569,43.781987505500005,6220 Hospitals (6221 to 6223),Married,35111.8,21067.08
+691,ddcf9d31-1cd2-4ede-9ae6-8d47ec29ebff,Ostendorf,Jack,15,ON,-79.2960241473,43.7396445188,,Single,0.0,145.26
+692,a8a8bc9b-13f4-455f-be1c-4b50df4d8560,Ostendorf,Ellena,34,ON,-79.2960241473,43.7396445188,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,40205.0,24123.0
+693,2fe21ef3-72ac-4b11-8678-402e6f45feec,Trimis,Celestia,54,ON,-79.50316079609999,43.7205376278,4461 Health and personal care stores,Married,14082.9,8449.74
+694,acfc7398-66cb-4c79-8f1f-e6631c2f0f08,Petrovits-Fowlkes,Marvella,52,ON,-79.4445909172,43.6474833454,5221 Depository credit intermediation,Married,32302.35,19381.41
+695,a454250f-78dc-43c9-b151-1603f7affb4d,Nager,Leanne,28,ON,-79.4016253496,43.7290818312,5221 Depository credit intermediation,Single,22423.17,13453.89
+696,a3d905a6-5503-4129-b708-32b5294e0c1e,Robie,Berta,22,ON,-79.3448533882,43.665362780500004,5617 Services to buildings and dwellings,Single,12016.95,7210.17
+697,fa4d5ae3-00af-4f91-abfd-432f764e92c8,Delauder,Santos,55,ON,-79.4509789267,43.6407822333,6111 Elementary and secondary schools,Married,36258.35,21755.01
+698,3011d1f3-7312-404e-bc54-635977b19574,Lutterman,Toshia,54,ON,-79.2153791533,43.7797527244,"3327 Machine shops, turned product, and screw, nut and bolt manufacturing",Married,42171.65,25302.99
+699,b5937582-2469-48e9-9a12-bc3b8e2c9504,Trotto,Ismael,47,ON,-79.3214730582,43.6650425301,5411 Legal services,Married,29108.2,17464.920000000002
+700,9bc572d3-8006-44c2-9abd-2620fe725e52,Strayhorn,Cohen,52,ON,-79.402497263,43.6738630034,6230 Nursing and residential care facilities (6231 to 6239),Married,25866.95,15520.170000000002
+701,a32662c8-9e39-4de5-9aca-d767511a7bab,Kaopua,Evelyn,21,ON,-79.44630149,43.678044421,,Single,0.0,208.62
+702,64d7c6f7-22a1-4c52-a0ba-b5b573c972e0,Roup,Werner,38,ON,-79.57823981850001,43.741860576899995,6113 Universities,Married,31637.0,18982.2
+703,4649a9e2-ecc3-463c-8a1d-c2fdeb59d96b,Ditzel,Vicente,51,ON,-79.5925793862,43.7377972834,4921 Couriers,Married,41610.45,24966.27
+704,c746ce61-e27e-457f-aa12-b5b01af89b40,Calderara,Georgann,34,ON,-79.48189258880001,43.6784336179,5321 Automotive equipment rental and leasing,Married,29729.0,17837.4
+705,8ae151b3-d8c7-47d5-9ddb-ecd16b9b3a84,Robie,Carey,45,ON,-79.3448533882,43.665362780500004,4452 Specialty food stores,Married,37765.2,22659.12
+706,85139a97-5b93-4985-ab6f-24d7f244409e,Dunklin,Rihanna,54,ON,-79.4975059697,43.7385322634,4481 Clothing stores,Married,25163.15,15097.89
+707,10958dc3-1201-4430-8605-5585d91025fe,Milbrandt,Jc,41,ON,-79.48286093600001,43.720498199,5411 Legal services,Married,29620.8,17772.48
+708,47dfd874-5a82-4ae5-9d32-f3d9efd4d4c6,Tooker,Andre,53,ON,-79.1878549542,43.7707432757,7221 Full-service restaurants,Married,29558.45,17735.07
+709,7842c4c7-c0f7-4258-b3b4-55a23868f705,Mccarson,Willa,34,ON,-79.4974338207,43.6305692291,"4532 Office supplies, stationery and gift stores",Married,56919.0,34151.399999999994
+710,f6c73e41-81ba-428b-96d5-fcdf2216d54c,Kalka,Charlie,57,ON,-79.371426797,43.6734731086,3335 Metalworking machinery manufacturing,Married,255379.35,153227.61000000002
+711,15db3501-225f-4f9f-be62-eca9b5fdc49c,Bacher,Tamala,28,ON,-79.21526027729999,43.7961706128,5231 Securities and commodity contracts intermediation and brokerage,Single,6812.85,4087.71
+712,596475da-04dc-46b4-83e7-b52e878985e6,Ringenberg-Helble,July,26,ON,-79.51696442640001,43.7508999551,4921 Couriers,Single,9322.17,5593.29
+713,2b74e4e4-2ffd-4695-8037-b209d008fd8c,Thibodaux,Kaya,51,ON,-79.4351054385,43.675620116800005,3371 Household and institutional furniture and kitchen cabinet manufacturing,Married,93453.6,56072.16
+714,4329ae90-6c9f-494f-97f9-9f006123205e,Mccay,Marigold,54,ON,-79.4960697911,43.744935471400005,4461 Health and personal care stores,Married,29228.4,17537.04
+715,bb32f7e1-8699-484b-a38b-89018005914e,Hurde,Robin,34,ON,-79.5457811734,43.6606198495,"4512 Book, periodical and musical stores",Married,55545.0,33327.0
+716,4eca6d88-41d7-47ed-9b33-b6437db2b290,Tombs,Enzo,53,ON,-79.4179540639,43.7760228923,3116 Meat product manufacturing,Married,92602.6,55561.56
+717,87fde6a1-744a-42db-b7e4-724263757588,Manlove,Cosette,15,ON,-79.44083783,43.728746286,,Single,0.0,207.0
+718,20260522-87d3-4457-9315-5b5625e6ce08,Flink,Jacqulyn,50,ON,-79.323157635,43.69619885979999,,Married,0.0,0.0
+719,f89c9a9c-4842-4700-b999-a405908c1366,Wakin,Zohar,46,ON,-79.4959487855,43.6159946811,5221 Depository credit intermediation,Married,49523.1,29713.86
+720,fedf14f1-a2cf-4d55-b740-9cbbcd5ee69f,Perrow,Lotus,26,ON,-79.573418964,43.6515904044,2361 Residential building construction,Single,7013.82,4208.28
+721,c303cfa3-7a34-4638-9ce2-42b1f1698e18,Labossiere,Delvin,28,ON,-79.26631312079999,43.744135174600004,2389 Other specialty trade contractors,Single,7094.34,4256.61
+722,6be5a891-2176-4faf-88cb-bcc1cfe857b8,Stritzinger,Jet,22,ON,-79.2853142425,43.772055504399994,4451 Grocery stores,Single,4705.47,2823.27
+723,c0a3f297-943e-493c-a27c-8159e449075a,Glackin,Ryleigh,52,ON,-79.5062741429,43.7550815319,2212 Natural gas distribution,Married,36065.15,21639.09
+724,08031146-fba6-4727-afb7-82c151e81087,Victorino,Carey,39,ON,-79.41465118229999,43.6421048734,,Married,0.0,0.0
+725,05afb3af-4328-4ec6-b66b-9260fa9cf28b,Stobbs-Folger,Tex,33,ON,-79.5874440712,43.719434898,,Married,0.0,0.0
+726,3fa8f3ec-6acd-4735-8315-fadca21ec3af,Chaddick,Emile,57,ON,-79.339384877,43.681150559799995,3379 Other furniture-related product manufacturing,Married,56384.5,33830.7
+727,da0e9594-b62f-4600-a981-8946e16dec88,Pensinger,Benton,47,ON,-79.4374208591,43.647180523,5414 Specialized design services,Married,38399.9,23039.94
+728,4f22f59e-2896-49dc-ade6-a1e1ddee2f1c,Granger,Sheree,50,ON,-79.5059062213,43.595191382799996,5223 Activities related to credit intermediation,Married,57345.9,34407.54
+729,7da575ca-b08f-4742-973b-64ec1f46bff7,Zeier,Jong,50,ON,-79.447735502,43.786076743500004,6215 Medical and diagnostic laboratories,Married,23830.3,14298.18
+730,947e85c3-4651-463c-a268-97fe1f5b338e,Surina,Emory,55,ON,-79.4348453896,43.7159898138,5616 Investigation and security services,Married,47539.85,28523.91
+731,a57c9586-c3b0-40cb-97be-fa26b0bbd539,Saysongkham,Valentine,34,ON,-79.2763631588,43.8208300889,5241 Insurance carriers,Married,26475.0,15885.0
+732,98c8067c-d488-4e4a-bc45-db57ee64c619,Gola,Skyler,57,ON,-79.42190550800001,43.641778135,2383 Building finishing contractors,Married,53494.55,32096.73
+733,9738cfdf-f69c-47e1-bcba-64593df9bef5,Kraszewski,Bob,58,ON,-79.3575674655,43.6879062867,3231 Printing and related support activities,Married,25641.55,15384.93
+734,44e54ad7-9763-4d25-85b9-052777051e0b,Surina,Zander,21,ON,-79.4348453896,43.7159898138,7222 Limited-service restaurants,Single,14621.31,8772.78
+735,52d99425-59f9-4e9d-80ec-368e6a2203cb,Valvo,Zahra,52,ON,-79.2082347232,43.736663666400005,8132 Grant-making and giving services,Married,36947.2,22168.32
+736,6c335479-f5f9-41f9-aadb-9ab99eb4afce,Clewell,Eben,36,ON,-79.2481957304,43.7392194686,6213 Offices of other health practitioners,Single,36144.0,21686.4
+737,d53c9ec4-99b5-41f0-a3f1-7ea37b79a102,Gramza,Hendrik,45,ON,-79.5028151003,43.6276267984,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,67903.0,40741.8
+738,672f87f3-fcef-4439-b457-6c01e546deb4,Zimlich,Caspian,48,ON,-79.50281981010001,43.597145232799996,5411 Legal services,Married,39952.0,23971.2
+739,eca08015-988a-4786-aef4-12b0defbfd23,Lanners-Basham,Sheree,50,ON,-79.1696451973,43.7769304099,6244 Child day-care services,Married,75709.1,45425.46
+740,3743da69-54a0-4aef-9888-56ebb521bcc9,Chaddick,Analisa,52,ON,-79.339384877,43.681150559799995,5241 Insurance carriers,Married,61985.0,37191.0
+741,6f91da78-6faf-43cb-acdf-54e75eb97e6c,Giger-Straughter,Keiko,34,ON,-79.39832033479999,43.6548556808,5619 Other support services,Married,36139.0,21683.4
+742,3b979dd8-cfde-46b9-85b5-e82d2cf631c1,Sen,Kyan,32,ON,-79.31697451720001,43.6716033524,5621 Waste collection,Married,53354.0,32012.4
+743,2c9fc124-0319-4a4a-b33f-0d58fa908d5d,Kamal,Ismael,16,ON,-79.2808548794,43.6845422854,,Single,0.0,129.36
+744,0025fecc-1b43-47d3-9b3d-e562da93a1d2,Stayrook,Conor,50,ON,-79.53074290079999,43.596846524700005,,Married,0.0,0.0
+745,18d1ad07-23d2-423a-8fca-815c33312670,Vansoest,Gonzalo,38,ON,-79.1482899077,43.792161208500005,6111 Elementary and secondary schools,Married,62474.0,37484.4
+746,ba75f081-0087-4fb2-bd69-692b070a4bc6,Delgrande,Novella,17,ON,-79.3233880009,43.6725612572,,Single,0.0,24.39
+747,0bc987f7-6289-46bb-9ad2-4629b7c0cabe,Strayhorn,Lennie,36,ON,-79.402497263,43.6738630034,3344 Semiconductor and other electronic component manufacturing,Single,22106.0,13263.6
+748,a453fa51-2627-4d6f-8b99-cf504bb9c3e1,Elliston,Cade,15,ON,-79.3914878813,43.7944309975,,Single,0.0,230.79
+749,a944936f-8e8a-4be4-a08a-3c2cc68a7d1a,Capobianco,Micheal,55,ON,-79.4418260766,43.7063388328,5239 Other financial investment activities,Married,56655.9,33993.54
+750,b357fe7f-efc3-46bd-bfa5-5c2554f800ce,Svedin,Casandra,54,ON,-79.2309633441,43.751756756300004,8141 Private households,Married,48183.85,28910.31
+751,02dfb80b-8732-4e4a-a961-f589ef803878,Engelkes,Benny,35,ON,-79.2458041579,43.7643117858,"2381 Foundation, structure, and building exterior contractors",Married,104942.0,62965.2
+752,6fd12389-0823-4b50-bd28-66c1a9af32d8,Mering,Mona,15,ON,-79.25452406720001,43.7223588071,,Single,0.0,78.66
+753,aeac4712-9db5-4885-8d53-4c867aff64a1,Poat,Filbert,44,ON,-79.5044987076,43.7452313789,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,36720.2,22032.12
+754,5bf00da2-49c4-44cf-914c-1f4ef46bc226,Stritzinger,Arwin,25,ON,-79.2853142425,43.772055504399994,6111 Elementary and secondary schools,Single,4505.82,2703.48
+755,58d6cd80-a6d6-40d0-bd4b-0209420eb2ef,Glackin,Bennie,56,ON,-79.5062741429,43.7550815319,5613 Employment services,Married,43326.25,25995.75
+756,52174dc4-2570-46f7-83da-080de00bf544,Lytch,Lonnie,34,ON,-79.3918217726,43.6837736438,3364 Aerospace product and parts manufacturing,Married,56083.0,33649.8
+757,c94ed76d-19e9-4c11-ba04-3ffa7c06edb3,Hartgerink,Tenille,15,ON,-79.4067982599,43.644682826,,Single,0.0,86.31
+758,1c8fc312-26c6-421f-8517-92d65105d33d,Zuehls,Devyn,15,ON,-79.464277128,43.666897896,,Single,0.0,183.63
+759,14189014-f787-4d1b-8bcc-f5f348d3ad0a,Carullo,Sullivan,56,ON,-79.459398889,43.654209663,"5418 Advertising, public relations, and related services",Married,141140.65,84684.39
+760,613f8fd9-ab4c-42a7-9370-a4ac2274285d,Bindas,Nicolas,36,ON,-79.3408724654,43.6962513703,4173 Computer and communications equipment and supplies wholesaler-distributors,Married,63981.0,38388.60000000001
+761,53df69b5-8fe4-46fd-aae4-1694ec7d480c,Ridgeway,Deborah,50,ON,-79.3190606862,43.7512558438,,Married,0.0,0.0
+762,cfb69e69-d355-4096-8e6b-be13908fbfc4,Rippon,Zakia,34,ON,-79.3845637679,43.658374003199995,,Married,0.0,0.0
+763,a86ea9e8-6311-44a9-ad05-84ba3514b2e1,Mohsin-Swander,Janeen,54,ON,-79.2257229585,43.798819216000005,5411 Legal services,Married,52081.2,31248.72
+764,fae757cf-e7d2-4912-b554-7726110adb4a,Fullbright,Dorsey,70,ON,-79.1476648213,43.7847243691,6220 Hospitals (6221 to 6223),Married,61101.15,36660.69
+765,7fedfeb1-b2fa-4a65-8965-9c018df25cff,Mcentee,Tylan,59,ON,-79.5198266294,43.7019082741,6214 Out-patients care centres,Married,26083.15,15649.89
+766,1e14ed84-c578-4385-a394-5df8c5d1d335,Shelly,Breck,17,ON,-79.52226136670001,43.6545402904,,Single,0.0,61.2
+767,0f947969-76b2-4c66-a7b9-0bc1d7ab5729,Bombard,Tiesha,50,ON,-79.51095348369999,43.765738444200004,5613 Employment services,Married,16909.6,10145.76
+768,3144b69f-ddce-473d-bd07-92ea11dd3b1c,Vandesteeg,Tayden,54,ON,-79.3792078222,43.647291063100006,3351 Electric lighting equipment manufacturing,Married,41961.2,25176.72
+769,acbf6ce3-ee85-458f-b779-1ab2f9e649a7,Fazzino-Churchman,Taunya,54,ON,-79.376348695,43.646235695,5411 Legal services,Married,35459.1,21275.46
+770,1e2495ec-dc59-4cd4-8831-d017211d8fb6,Raring,Rowena,34,ON,-79.4839845521,43.704557998,6211 Offices of physicians,Married,21131.0,12678.6
+771,173a9095-1eeb-481b-ba69-cc8b0c65b7bc,Guzmdn,Annemarie,52,ON,-79.4273303362,43.704431254700005,6230 Nursing and residential care facilities (6231 to 6239),Married,71918.7,43151.22
+772,d78167de-2140-4afd-9502-6db08052f33a,Mcgranahan,Noel,57,ON,-79.6249845469,43.7302696557,5415 Computer systems design and related services,Married,47363.9,28418.340000000004
+773,7d458281-63a8-42b6-ac58-ea839e6473cb,Downard,Blane,61,ON,-79.38990029600001,43.727932421999995,5415 Computer systems design and related services,Married,195165.15,117099.09
+774,7dbdc2d4-c054-4ea4-94f6-34d5f73e574b,Andalora,Kieth,20,ON,-79.2171129347,43.7607487105,5511 Management of companies and enterprises,Single,8806.05,5283.63
+775,5be013a9-9c4a-439e-8be6-449030c36439,Heltsley,Mavis,18,ON,-79.3408724654,43.6962513703,,Single,0.0,227.52
+776,d566adb2-a162-4922-a218-9c0eabfe2a0f,Trotto,Jack,17,ON,-79.3214730582,43.6650425301,,Single,0.0,212.94
+777,17913363-5f92-4ea0-9899-526540a726ae,Cherny,Tricia,21,ON,-79.3939331766,43.6473909949,3254 Pharmaceutical and medicine manufacturing,Single,8648.31,5188.980000000001
+778,1768b718-ddf0-4a89-860d-de2bb6d9fbef,Seigler,Cillian,21,ON,-79.2957909504,43.6880698015,4481 Clothing stores,Single,4195.62,2517.36
+779,9c0ac18a-3d5a-4303-bd3d-1988a852d9b9,Barber,Lucien,52,ON,-79.27685333699999,43.685465209300006,"6242 Community food and housing, and emergency and other relief services",Married,71957.8,43174.68
+780,cb418313-5922-4dca-8556-d4d15876d51e,Clewell,Elian,34,ON,-79.2062971635,43.7663987696,,Married,0.0,0.0
+781,6b8223af-7f8b-4656-abb3-1987d9fc6dfd,Sorin,Wallace,57,ON,-79.51491830319999,43.646368721099996,5221 Depository credit intermediation,Married,92267.95,55360.77
+782,6bf83e17-db35-44ca-865c-802df7ff5aca,Schafersman,Seanna,52,ON,-79.179945411,43.791098383999994,5614 Business support services,Married,56148.75,33689.25
+783,1e6810b5-e1c4-4539-8b71-57904faa857b,Piroso,Syrus,35,ON,-79.3949448347,43.7067805618,8121 Personal care services,Married,47141.0,28284.6
+784,7667a5ff-299a-4671-98a4-c7d3fb4a91ee,Buckle,Sang,54,ON,-79.2967682527,43.702448319700004,6230 Nursing and residential care facilities (6231 to 6239),Married,34316.0,20589.6
+785,fe90e5f9-7f22-4fec-a4e3-47a14dfe5930,Zeldin,Gaston,23,ON,-79.56812821300001,43.651935308,"2211 Electric power generation, transmission and distribution",Single,8514.99,5109.0
+786,0f26f4f5-7972-4251-a034-056d0c2f23b6,Hick,Diana,50,ON,-79.1380996374,43.7731611749,9120 Provincial and territorial public administration (9121 to 9129),Married,79086.65,47451.99
+787,9e8840c8-bab0-4140-9d73-c03063dad375,Kules,Hanna,34,ON,-79.42005527229999,43.7399203058,4451 Grocery stores,Married,87523.0,52513.8
+788,cad768a2-0190-4375-9156-0dea2bf286c3,Condelario,Nichole,51,ON,-79.3175643582,43.6809336109,"5413 Architectural, engineering and related services",Married,37502.65,22501.59
+789,9af857cb-3992-44f5-b9f8-f7ae4fdb0549,Herrod,Rafferty,37,ON,-79.3931272024,43.775995797600004,7139 Other amusement and recreation industries,Married,82984.0,49790.4
+790,c1fb0734-f7bc-4708-8f1b-b82392d7171f,Ritmiller,Tawanna,18,ON,-79.4108059393,43.70131855,,Single,0.0,147.57
+791,9c1793ee-1c5f-4a64-854d-1d782fdf9df0,Vonruden,Michal,54,ON,-79.4269388721,43.6505332774,5221 Depository credit intermediation,Married,37086.35,22251.81
+792,dfd85689-1719-423c-9e89-0687baec8e96,Zuehls,Carlton,33,ON,-79.464277128,43.666897896,6230 Nursing and residential care facilities (6231 to 6239),Married,49976.0,29985.6
+793,9d316067-3467-4aae-a401-5df6e33478bd,Hartgerink,Curt,59,ON,-79.4067982599,43.644682826,4189 Other miscellaneous wholesaler-distributors,Married,30024.2,18014.52
+794,cd4f3e07-5996-41ce-be95-b1bba1ce3ebe,Coulthard,Benjy,38,ON,-79.34220083689999,43.660842180799996,,Married,0.0,0.0
+795,21356aa7-f3b7-4e9f-ba89-a7c5b8487b18,Blaxland,Levin,17,ON,-79.5181434205,43.739202145,,Single,0.0,152.52
+796,9314d2a1-ceb4-4460-aa61-097b8d5e8304,Mccarson,Prakash,18,ON,-79.4974338207,43.6305692291,,Single,0.0,225.84
+797,7aff5eb9-1173-4c30-9509-31661de5a49c,Delgrande,Austen,50,ON,-79.3233880009,43.6725612572,4521 Department stores,Married,35609.75,21365.85
+798,0e8a9b34-df2b-4905-921b-618100fa231f,Enriguez,Moses,55,ON,-79.4433026024,43.643528465200006,3261 Plastic product manufacturing,Married,47918.2,28750.92
+799,3b5c0e86-a92f-411c-9373-560b2a990a99,Wiener-Allenbaugh,Hermelinda,34,ON,-79.4073156462,43.7143223826,"5416 Management, scientific and technical consulting services",Married,46645.0,27987.0
+800,22005232-c310-413e-9a79-f9662c7429c6,Grandos,Ishmael,53,ON,-79.2779835798,43.692938947799995,4144 Personal goods wholesaler-distributors,Married,67319.85,40391.91
+801,157ad9ca-bb68-416a-a7d7-6dd9b331a2f3,Dinis-Mulliniks,Mertie,51,ON,-79.414356893,43.641867117,5221 Depository credit intermediation,Married,60487.7,36292.62
+802,0b5321cc-c815-4fb4-ae6b-8ced8fd5a2a2,Strayhorn,Ka,23,ON,-79.402497263,43.6738630034,6116 Other school and instruction,Single,6415.53,3849.33
+803,caacb4f7-f394-4283-9441-86b554825e27,Gormally,Nelle,50,ON,-79.45950833170001,43.668127382799995,9120 Provincial and territorial public administration (9121 to 9129),Married,38366.3,23019.78
+804,2eb22130-343a-4579-8a44-8b15d3be737b,Adamczak,Shae,34,ON,-79.1375616953,43.7829772229,5221 Depository credit intermediation,Married,51765.0,31059.0
+805,e85901a1-f827-4f92-aa48-c99977f27d4a,Burckhard,Kathey,52,ON,-79.4067982599,43.644682826,6241 Individual and family services,Married,38482.45,23089.47
+806,e538ad74-266b-4849-a19f-ee9698671175,Mongiello,Brie,59,ON,-79.4324188308,43.649163790699994,5231 Securities and commodity contracts intermediation and brokerage,Married,30292.15,18175.29
+807,1d58e6c2-4f5f-42ef-b82d-77c856b055da,Kroll,Brad,35,ON,-79.4724449481,43.641442247600004,5321 Automotive equipment rental and leasing,Married,17636.0,10581.6
+808,097e684b-f438-43f9-b44b-76b9da71eca6,Ringenberg-Helble,Jayna,50,ON,-79.51696442640001,43.7508999551,,Married,0.0,0.0
+809,c1a2ccbb-81e1-4456-92a6-5e6be4335555,Lyken,Lysander,53,ON,-79.37521635569999,43.646832947600004,5415 Computer systems design and related services,Married,31633.05,18979.83
+810,78ef0e9c-70ba-44e4-9dd0-02a2cc16258a,Marasco,Alfredo,21,ON,-79.5586505447,43.74991165229999,5411 Legal services,Married,9717.51,5830.5
+811,6f8edc8b-8678-497d-a933-97b32f556498,Werking,Rebeca,54,ON,-79.1550296933,43.7882583145,5415 Computer systems design and related services,Married,97041.6,58224.96
+812,098af7bf-9d81-4a8e-83db-35adff8ad089,Pensinger,Lyric,34,ON,-79.4374208591,43.647180523,7222 Limited-service restaurants,Married,34611.0,20766.6
+813,1c6f1bb5-6d01-4cac-8101-5806371ef0dc,Mick,Carmon,54,ON,-79.3802518505,43.7012910092,6244 Child day-care services,Married,62263.3,37357.98
+814,efa62f83-fa40-4978-aefe-2a1f4d9fc6bd,Rippee,Leela,52,ON,-79.4863427949,43.73782478020001,"4532 Office supplies, stationery and gift stores",Married,39141.4,23484.84
+815,e5b2c6cd-24ba-421d-b778-10d72633951a,Petrson,Colton,22,ON,-79.2638428764,43.750636326000006,5171 Wired telecommunications carriers,Single,6512.55,3907.53
+816,b59de6e4-eeb2-4334-99de-9d85a83b2c29,Mellick,Jacquelin,34,ON,-79.3904574192,43.714371781400004,7222 Limited-service restaurants,Married,56924.0,34154.399999999994
+817,cec8463f-95aa-4ea1-abe2-dec2aa4ca614,Guyet,Cambree,50,ON,-79.2857481222,43.818109703599994,4841 General freight trucking,Married,36331.95,21799.17
+818,678731b7-4904-4d6e-bf1e-ebfc06fb8e2b,Lomascolo,Leonardo,34,ON,-79.5871043127,43.754436232299994,5221 Depository credit intermediation,Married,20743.0,12445.8
+819,45b41eef-1d6b-4712-9393-a75e387d05a8,Arrick,Griffin,29,ON,-79.3904574192,43.714371781400004,3372 Office furniture (including fixtures) manufacturing,Married,20284.44,12170.67
+820,f62dea89-7e8c-44c9-8a6f-4fa8f4913296,Fabela,Myra,54,ON,-79.4101626129,43.686272653,6220 Hospitals (6221 to 6223),Married,68129.45,40877.67
+821,baa24c8d-53c8-491a-a195-f69bb11e0a6f,Botti,Aggie,54,ON,-79.5954833,43.755805078,3372 Office furniture (including fixtures) manufacturing,Married,60120.85,36072.51
+822,72739445-fc91-45c9-9385-654469877fa4,Karoly,Yan,54,ON,-79.52858579229999,43.6449745319,,Married,0.0,0.0
+823,dd10e4f9-f32b-466c-b55d-9b42b848da5b,Calderara,Kevin,34,ON,-79.48189258880001,43.6784336179,6243 Vocational rehabilitation services,Married,35276.0,21165.6
+824,3e4a5793-301f-406f-9562-f4d4d6521581,Custa,Antione,49,ON,-79.2854795495,43.6951380105,"5242 Agencies, brokerages and other insurance related activities",Married,18503.1,11101.86
+825,fba0a973-f526-4d5e-b8d8-f30362104d51,Driggins,Keith,33,ON,-79.180843494,43.760391735,6112 Community colleges and C.E.G.E.P.s,Married,46980.0,28188.0
+826,e6f90299-e151-49c7-8354-991afa271bae,Kirven,Barrett,52,ON,-79.5474832168,43.6459851927,5311 Lessors of real estate,Married,38269.7,22961.82
+827,c85ce287-6351-4d2f-a8dc-00ce565721d3,Dunklin,Azalea,36,ON,-79.4975059697,43.7385322634,3231 Printing and related support activities,Divorced,22324.0,13394.4
+828,76d0ff2d-8b41-4798-b501-8db4d2728d8c,Parish,Aisha,34,ON,-79.57823981850001,43.741860576899995,4452 Specialty food stores,Married,36914.0,22148.4
+829,78b583fd-3fcb-490d-a2b2-602aa2f20f80,Cappola,Winston,53,ON,-79.2522119849,43.7902164416,6220 Hospitals (6221 to 6223),Married,33371.85,20023.11
+830,d9b3496c-1533-4bdf-9934-3a60213bae6b,Bernardi,Clement,54,ON,-79.41282243159999,43.7624163297,4481 Clothing stores,Married,44584.35,26750.61
+831,dd1ff105-db6e-42c2-82a4-6c1cbcd68969,Mahone-Vallieres,Viva,51,ON,-79.3717210615,43.669078059700006,5221 Depository credit intermediation,Married,14018.5,8411.099999999999
+832,4f499e35-e225-4ddc-815d-e91e178fcfcf,Cernansky,Cyndi,34,ON,-79.5028151003,43.6276267984,"5413 Architectural, engineering and related services",Married,61659.0,36995.4
+833,bb55311d-312f-41bd-8aa4-620ff2353c9c,Clemon,Leon,50,ON,-79.4924386497,43.6554151527,"5418 Advertising, public relations, and related services",Married,189150.85,113490.51
+834,b2b56c6b-e372-45b2-b3c4-8f449d85244d,Fore,Mel,54,ON,-79.22226052010001,43.7798837988,7211 Traveller accommodations,Married,16678.45,10007.07
+835,a8bdaae7-c5af-40a1-9bea-ef90131d677e,Barber,Glory,50,ON,-79.27685333699999,43.685465209300006,6113 Universities,Married,77929.75,46757.85000000001
+836,85e0a71a-eb17-402b-aac2-2667f1fbd276,Suniga,Hermila,51,ON,-79.3033486874,43.7222813494,,Married,0.0,0.0
+837,958efde2-884e-4214-88a7-df614cb54f9d,Amenta-Antunes,Zofia,34,ON,-79.416253858,43.744184262,5231 Securities and commodity contracts intermediation and brokerage,Married,110257.0,66154.20000000001
+838,a7000fea-383d-4953-8d16-90c787b21d0d,Ikzda-Bigney,Damaris,54,ON,-79.25446235300001,43.831247078000004,4421 Furniture stores,Married,34298.75,20579.25
+839,7dcc2bc2-4f9f-4166-b5a4-394652b80378,Abdalla,Nils,50,ON,-79.3979278347,43.6951982921,4431 Electronics and appliances stores,Married,20102.0,12061.2
+840,f9972cae-00d3-43a3-979c-dd1d410c728f,Kochmanski,Ayisha,54,ON,-79.5180968041,43.6366013849,"9130 Local, municipal and regional public administration (9131 and 9139)",Married,54622.7,32773.62
+841,7969094d-f2ae-4e9d-a571-5b446cebb5c8,Bombard,Shani,34,ON,-79.51095348369999,43.765738444200004,"5416 Management, scientific and technical consulting services",Single,15947.0,9568.2
+842,5a676a3a-16fa-4641-a2b5-3268d4d70e03,Robertson,Jemma,54,ON,-79.4324188308,43.649163790699994,4921 Couriers,Married,31122.45,18673.47
+843,e120088b-e4c1-4bff-9cd9-e67ca24ed8b8,Fullbright,Dorla,17,ON,-79.1476648213,43.7847243691,,Single,0.0,46.26
+844,ab0a215a-9200-4dd4-89cf-94fc3da88a39,Surina,Leda,54,ON,-79.4348453896,43.7159898138,,Married,0.0,0.0
+845,dee4cdd8-8054-4609-b0cf-7306008450d8,Plaas,Clinton,51,ON,-79.4343858225,43.6998278338,,Married,0.0,0.0
+846,ef4d8374-daaf-4bad-ac85-5a2d8ba255ce,Yarber,Krishna,54,ON,-79.5009610922,43.7429406222,5171 Wired telecommunications carriers,Married,23573.85,14144.31
+847,09d58252-282f-4c03-842a-b671998b44ff,Niesent,Brianne,51,ON,-79.4232387267,43.7286923204,2122 Metal ore mining,Married,101765.8,61059.48
+848,b29ceecf-4c12-43d5-b075-686cdb6adecf,Rabun,Enriqueta,54,ON,-79.4509789267,43.6407822333,3222 Converted paper product manufacturing,Married,34938.15,20962.89
+849,52ddc57e-cd45-4016-a4e2-31190206ed99,Herran,Yuri,23,ON,-79.3979278347,43.6951982921,6211 Offices of physicians,Single,5785.89,3471.54
+850,e1f5ea8c-b5aa-4c91-8d99-f1385040baca,Kaopua,Drayden,15,ON,-79.44630149,43.678044421,,Single,0.0,3.81
+851,72d3f529-08d7-45c2-bb0c-bf55d82ceba3,Franze,Logan,52,ON,-79.3916934771,43.68168832560001,6112 Community colleges and C.E.G.E.P.s,Married,49918.05,29950.83
+852,77834029-6687-4e09-ad3c-eb853d8a9759,Chriswell,Erwin,55,ON,-79.3939331766,43.6473909949,9120 Provincial and territorial public administration (9121 to 9129),Married,67217.5,40330.5
+853,3237182d-6d66-4b3c-8f4e-a4c82918377f,Guemmer,Annika,50,ON,-79.54533020560001,43.655865105100006,9120 Provincial and territorial public administration (9121 to 9129),Married,32792.25,19675.35
+854,2df9872b-ab2c-4fbd-83c0-3c8ceb972042,Petricka,Ronan,56,ON,-79.4768116467,43.6667600589,"5412 Accounting, tax preparation, bookkeeping and payroll services",Married,39841.75,23905.050000000007
+855,3bc24491-6b5c-4f59-8dee-d6a3b56c09c5,Corpus,Carolyn,51,ON,-79.4924386497,43.6554151527,,Married,0.0,0.0
+856,34426d07-e2d0-4dd9-b2ea-6bbfd6c85d61,Ebersold,Cristina,25,ON,-79.46670558,43.686131278599994,6220 Hospitals (6221 to 6223),Single,9149.58,5489.76
+857,52c6217b-c0ca-4396-a963-3c18c286c139,Wroten,Lynwood,35,ON,-79.400446074,43.6956302032,7223 Special food services,Married,68949.0,41369.4
+858,642081ab-2fac-4bdc-bdfb-f996fd0fb376,Begor,Lachlan,36,ON,-79.5124723946,43.6254476008,4422 Home furniture stores,Single,50389.0,30233.4
+859,4134ff68-f97f-480a-a070-e9ee361f28e9,Clewell,Titus,54,ON,-79.2481957304,43.7392194686,6220 Hospitals (6221 to 6223),Married,33951.45,20370.87
+860,a440ecc9-1db8-474f-a1ff-257c4e1b28e4,Sartor,Winter,54,ON,-79.3575674655,43.6879062867,6111 Elementary and secondary schools,Married,27585.05,16551.03
+861,2d7100d9-1244-4ede-83bf-46142871f5c5,Poniatoski,Raguel,54,ON,-79.32662220489999,43.7785028646,"5413 Architectural, engineering and related services",Married,40942.3,24565.38
+862,c30d5764-aeb7-4b48-836b-ecbbbab82151,Hellmich,Lakisha,51,ON,-79.30495833270001,43.73747601229999,2361 Residential building construction,Married,35086.5,21051.9
+863,a852a305-8f99-4574-a88b-162874f884ce,Sittig,Laure,27,ON,-79.22226052010001,43.7798837988,3254 Pharmaceutical and medicine manufacturing,Single,5234.13,3140.49
+864,2466161a-11bd-41c3-b389-6c9841118de6,Karns,Justine,34,ON,-79.4141265124,43.6881670254,6220 Hospitals (6221 to 6223),Married,93386.0,56031.60000000001
+865,50faa548-acfa-45c0-8418-5cd73d55e9f1,Biddulph,Cerise,54,ON,-79.3396941053,43.7916204893,5415 Computer systems design and related services,Married,40661.7,24397.02
+866,b72cb86d-24aa-41bf-ad07-f915ef1cab2b,Retek,Trinidad,19,ON,-79.5360997656,43.720426325,8122 Funeral services,Single,9038.7,5423.22

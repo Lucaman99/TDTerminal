@@ -1,0 +1,11 @@
+.mid {
+	width:50%;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+th {
+	padding-left: 25px;
+	padding-right: 25px;
+}

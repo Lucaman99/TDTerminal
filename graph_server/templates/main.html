@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+  <title> graph </title>
+  <script>
+    function generate() {    
+    // do ajax request to ask for what the location of the TSNE image is. Then use in in the following line.
+    console.log('button pressed')
+    httpGetAsync('/graph')
+  }
+  </script>
+</head>
+
+<body>
+  <!-- Header -->
+
+  <div class="row"> 
+    <form class="col-md-12" style=" padding-right: 0px;" action="/graph" >
+      <h1>Select features for graphing</h1>
+      <select id="input1" name="input1">
+        <option selected >age</option>
+        <option >income</option>
+        <option >account balance</option>
+      </select>
+      <select id="input2" name="input2">
+        <option selected >age</option>
+        <option >income</option>
+        <option >account balance</option>
+      </select>
+      <button type="submit" id= "submit" style="opacity: 0.7; border-width: 0px; z-index: 100;"onclick="generate()">Submit</button>
+      <div class="image" id="the_result_plot">
+        <h1>Result</h1>
+        <img src="static/{{input2}}_vs_{{input1}}.jpg" alt = "photo">
+      </div>
+    </form>
+  </div>
+</body>
+
